@@ -1,0 +1,12 @@
+{
+  "device-mode": "cuda",
+  "layout-config": {
+    "model": "layoutlmv3"
+  },
+  "formula-config": {
+    "model": "yolo"
+  },
+  "table-config": {
+    "model": "tablemaster"
+  }
+}

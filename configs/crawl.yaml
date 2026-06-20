@@ -1,0 +1,211 @@
+# 爬虫配置
+# 上市公司研发资本化风险排序与问询函可行性测试
+
+# 巨潮资讯网 API 基础配置
+cninfo:
+  base_url: "http://www.cninfo.com.cn/new/information"
+  # 年报公告类型
+  category_rsg:
+    column: "sse"  # 由代码动态选择 szse / shse / bjse
+    plate: "sh"    # 由代码动态选择 sz / sh / bj
+    tabName: "fulltext"
+    pageNum: 1
+    pageSize: 30
+  # 问询函公告类型
+  category_dshgszz:
+    column: "sse"
+    plate: "sh"
+    tabName: "fulltext"
+    pageNum: 1
+    pageSize: 30
+
+# 深证信官方 API 配置（experiment/cninfo-official-api 分支）
+# 需要 .env 中配置 CNINFO_ACCESS_KEY / CNINFO_ACCESS_SECRET
+cninfo_official_api:
+  # 是否启用（main.py 中通过 --crawl-backend official 显式选择）
+  enabled: false
+  # 请求间隔（秒）
+  delay_seconds: 3
+  # 最大重试次数
+  max_retries: 3
+  # p_info3015 分页大小
+  page_size: 100
+  # 最大允许失败率，超过则自动熔断
+  max_failure_rate: 0.15
+  # token 缓存路径（相对于项目根目录，不提交）
+  token_cache_path: "data/cninfo_official_token.json"
+
+# 目标公司与年份
+companies:
+  # 医药制造（20家）
+  - name: "恒瑞医药"
+    code: "600276"
+    industry: "医药制造"
+  - name: "迈瑞医疗"
+    code: "300760"
+    industry: "医药制造"
+  - name: "药明康德"
+    code: "603259"
+    industry: "医药制造"
+  - name: "复星医药"
+    code: "600196"
+    industry: "医药制造"
+  - name: "智飞生物"
+    code: "300122"
+    industry: "医药制造"
+  - name: "长春高新"
+    code: "000661"
+    industry: "医药制造"
+  - name: "云南白药"
+    code: "000538"
+    industry: "医药制造"
+  - name: "片仔癀"
+    code: "600436"
+    industry: "医药制造"
+  - name: "爱尔眼科"
+    code: "300015"
+    industry: "医药制造"
+  - name: "通策医疗"
+    code: "600763"
+    industry: "医药制造"
+  - name: "科伦药业"
+    code: "002422"
+    industry: "医药制造"
+  - name: "华东医药"
+    code: "000963"
+    industry: "医药制造"
+  - name: "凯莱英"
+    code: "002821"
+    industry: "医药制造"
+  - name: "泰格医药"
+    code: "300347"
+    industry: "医药制造"
+  - name: "康龙化成"
+    code: "300759"
+    industry: "医药制造"
+  - name: "沃森生物"
+    code: "300142"
+    industry: "医药制造"
+  - name: "天坛生物"
+    code: "600161"
+    industry: "医药制造"
+  - name: "以岭药业"
+    code: "002603"
+    industry: "医药制造"
+  - name: "华润三九"
+    code: "000999"
+    industry: "医药制造"
+  - name: "鱼跃医疗"
+    code: "002223"
+    industry: "医药制造"
+
+  # 电子设备（20家）
+  - name: "立讯精密"
+    code: "002475"
+    industry: "电子设备"
+  - name: "海康威视"
+    code: "002415"
+    industry: "电子设备"
+  - name: "中芯国际"
+    code: "688981"
+    industry: "电子设备"
+  - name: "韦尔股份"
+    code: "603501"
+    industry: "电子设备"
+  - name: "京东方A"
+    code: "000725"
+    industry: "电子设备"
+  - name: "中兴通讯"
+    code: "000063"
+    industry: "电子设备"
+  - name: "北方华创"
+    code: "002371"
+    industry: "电子设备"
+  - name: "紫光国微"
+    code: "002049"
+    industry: "电子设备"
+  - name: "三安光电"
+    code: "600703"
+    industry: "电子设备"
+  - name: "歌尔股份"
+    code: "002241"
+    industry: "电子设备"
+  - name: "传音控股"
+    code: "688036"
+    industry: "电子设备"
+  - name: "兆易创新"
+    code: "603986"
+    industry: "电子设备"
+  - name: "汇顶科技"
+    code: "603160"
+    industry: "电子设备"
+  - name: "生益科技"
+    code: "600183"
+    industry: "电子设备"
+  - name: "深南电路"
+    code: "002916"
+    industry: "电子设备"
+  - name: "东山精密"
+    code: "002384"
+    industry: "电子设备"
+  - name: "鹏鼎控股"
+    code: "002938"
+    industry: "电子设备"
+  - name: "信维通信"
+    code: "300136"
+    industry: "电子设备"
+  - name: "大族激光"
+    code: "002008"
+    industry: "电子设备"
+  - name: "领益智造"
+    code: "002600"
+    industry: "电子设备"
+
+  # 软件信息（10家）
+  - name: "用友网络"
+    code: "600588"
+    industry: "软件信息"
+  - name: "宝信软件"
+    code: "600845"
+    industry: "软件信息"
+  - name: "金山办公"
+    code: "688111"
+    industry: "软件信息"
+  - name: "科大讯飞"
+    code: "002230"
+    industry: "软件信息"
+  - name: "恒生电子"
+    code: "600570"
+    industry: "软件信息"
+  - name: "广联达"
+    code: "002410"
+    industry: "软件信息"
+  - name: "三六零"
+    code: "601360"
+    industry: "软件信息"
+  - name: "深信服"
+    code: "300454"
+    industry: "软件信息"
+  - name: "浪潮信息"
+    code: "000977"
+    industry: "软件信息"
+  - name: "中科曙光"
+    code: "603019"
+    industry: "软件信息"
+
+years: [2021, 2022, 2023]
+
+# 下载配置
+download:
+  output_dir: "data/pdf"
+  delay_seconds: 3
+  max_retries: 3
+  timeout_seconds: 30
+
+# 问询函筛选关键词
+inquiry_keywords:
+  - "研发"
+  - "资本化"
+  - "开发支出"
+  - "无形资产"
+  - "费用化"

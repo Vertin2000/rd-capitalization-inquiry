@@ -1,0 +1,36 @@
+[project]
+name = "rd-capitalization-inquiry"
+version = "0.1.0"
+description = "上市公司研发资本化风险排序与问询函可行性测试"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "httpx>=0.28.1",
+    "loguru>=0.7.3",
+    "lxml>=6.1.1",
+    "matplotlib>=3.10.9",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.3",
+    "pdfplumber>=0.11.9",
+    "pydantic>=2.13.4",
+    "pypdf2>=3.0.1",
+    "python-dotenv>=1.2.2",
+    "pyyaml>=6.0.3",
+    "requests>=2.34.2",
+    "seaborn>=0.13.2",
+    "tabulate>=0.10.0",
+    "tqdm>=4.68.1",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.3",
+    "pytest-asyncio>=0.25.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src", "."]
+addopts = "-q --basetemp=.pytest-tmp"
+asyncio_mode = "auto"

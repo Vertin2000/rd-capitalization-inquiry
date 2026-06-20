@@ -1,0 +1,119 @@
+# 年报章节定位规则
+# 用于从 MinerU 解析后的 Markdown 中定位关键章节
+
+rules:
+  - name: "会计政策"
+    keywords:
+      - "重要会计政策及会计估计"
+      - "研发支出的确认和计量"
+      - "无形资产"
+      - "资本化"
+    positive_keywords:
+      - "研究阶段"
+      - "开发阶段"
+      - "内部研究开发"
+      - "资本化条件"
+      - "达到预定用途"
+      - "开发支出"
+    negative_keywords:
+      - "董事长"
+      - "公司简介"
+      - "联系方式"
+    max_slices: 2
+    context_before: 2
+    context_after: 70
+    priority: 1
+
+  - name: "研发费用"
+    keywords:
+      - "研发投入"
+      - "研发费用"
+      - "研发支出"
+      - "本期费用化研发投入"
+      - "本期资本化研发投入"
+    positive_keywords:
+      - "研发投入金额"
+      - "研发投入合计"
+      - "费用化的金额"
+      - "资本化的金额"
+      - "本期费用化研发投入"
+      - "本期资本化研发投入"
+      - "研发投入资本化的金额"
+      - "资本化研发投入占研发投入的比例"
+      - "研发投入占营业收入比例"
+    negative_keywords:
+      - "董事长"
+      - "公司简介"
+      - "联系方式"
+      - "致辞"
+    max_slices: 2
+    context_before: 2
+    context_after: 70
+    priority: 2
+
+  - name: "开发支出"
+    keywords:
+      - "开发支出"
+      - "研发项目"
+      - "在研项目"
+    positive_keywords:
+      - "本期增加"
+      - "本期减少"
+      - "期初余额"
+      - "期末余额"
+      - "内部开发支出"
+      - "确认为无形资产"
+      - "转入当期损益"
+      - "资本化开始时点"
+      - "资本化具体依据"
+    negative_keywords:
+      - "资产负债表"
+      - "流动资产"
+      - "非流动资产"
+      - "资产总计"
+    max_slices: 2
+    context_before: 2
+    context_after: 80
+    priority: 3
+
+  - name: "管理层讨论"
+    keywords:
+      - "管理层讨论与分析"
+      - "经营情况讨论与分析"
+      - "研发投入情况"
+    positive_keywords:
+      - "研发投入金额"
+      - "研发人员数量"
+      - "费用化的金额"
+      - "资本化的金额"
+      - "资本化研发投入占研发投入的比例"
+    negative_keywords:
+      - "董事长"
+      - "公司简介"
+      - "联系方式"
+    max_slices: 2
+    context_before: 2
+    context_after: 80
+    priority: 4
+
+  - name: "无形资产附注"
+    keywords:
+      - "无形资产"
+      - "累计摊销"
+      - "减值准备"
+    positive_keywords:
+      - "开发支出转入"
+      - "内部研发"
+      - "本期增加"
+      - "本期减少"
+      - "减值准备"
+      - "累计摊销"
+      - "期末余额"
+    negative_keywords:
+      - "董事长"
+      - "公司简介"
+      - "联系方式"
+    max_slices: 1
+    context_before: 2
+    context_after: 80
+    priority: 5

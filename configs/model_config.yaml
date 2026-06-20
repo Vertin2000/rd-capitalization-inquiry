@@ -1,0 +1,49 @@
+# LLM 配置
+llm:
+  provider: "siliconflow"
+  model: "Qwen/Qwen2.5-72B-Instruct"
+  base_url_env: "LLM_BASE_URL"
+  api_key_env: "LLM_API_KEY"
+  temperature: 0
+  max_tokens: 2048
+  timeout_seconds: 60
+
+# 评分模型阈值
+scoring:
+  # 异常判定：激进程度评分前 20%
+  anomaly_percentile: 0.80
+  # 行业偏离度权重
+  industry_weight: 0.25
+  # 跨期变化权重
+  change_weight: 0.25
+  # 条件模糊度权重
+  fuzziness_weight: 0.25
+  # 会计恒等式一致性乘数（不是加权项）：金额关系越不一致，最终风险分折扣越大
+  identity_multiplier: 0.25
+
+# 表格提取配置（用于从 MinerU Markdown 中确定性提取研发相关表格）
+table_extraction:
+  # 是否允许 validator 用表格值回填 LLM 未抽到的字段。
+  # 当前为 false：表格提取器作为独立工具输出结构化表格，供人工/后续校验；
+  # 回填逻辑已接入 validator，待小样本验证质量后再开启。
+  fallback_to_tables: false
+  # 回填字段来源映射（由 rd_table_extractor.py 输出 row_label -> schema 字段）
+  fallback_fields:
+    - "rd_expense_total"
+    - "rd_capitalized_amount"
+    - "rd_expensed_amount"
+    - "dev_cost_opening"
+    - "dev_cost_closing"
+    - "capitalization_rate"
+
+# 抽取字段映射
+extraction:
+  fields:
+    - "rd_expense_total"
+    - "rd_capitalized_amount"
+    - "rd_expensed_amount"
+    - "dev_cost_opening"
+    - "dev_cost_closing"
+    - "impairment"
+    - "capitalization_rate"
+    - "capitalization_condition"

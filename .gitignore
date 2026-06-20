@@ -1,0 +1,104 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data (large files & generated intermediates)
+data/pdf/
+data/parsed/
+data/sections/
+data/extracted/
+data/validated/
+data/scored/
+data/anomaly/
+data/inquiry/
+data/metadata/*.csv
+data/crawl_cache.json
+# Official API crawler runtime files (token is sensitive, cache is rebuildable)
+data/crawl_cache_official.json
+data/cninfo_official_token.json
+# Pipeline run logs (rebuildable, not source of truth)
+data/*.log
+
+# Outputs: ignore generated contents but keep directory structure via .gitkeep
+outputs/**
+!outputs/
+!outputs/**/
+!outputs/**/.gitkeep
+
+# Keep directory structure
+!data/.gitkeep
+!data/*/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# uv
+uv-cache/
+.uv-cache/
+.tmp/
+.pytest-tmp/
+.uv-tools/
+.uv-tool-bin/
+
+# Local agent handoffs
+.claude/
+
+# 队友原始文件归档目录
+temp-队友做的东西原件/
+
+# Large raw HTML archives (keep extracted MD instead)
+docs/mineru_api_docs.html
+
+# Official CNINFO API doc raw extracts (large files; keep generated MD/JSON catalog instead)
+cninfo_api_doc.har
+cninfo_api_doc_tree.json
+cninfo_api_gateway_codes.json
+
+# Fetched per-interface metadata (large file; generated on demand)
+cninfo_api_metadata.json
+
+# CNINFO API raw archive (mine + friend versions)
+data/cninfo-api-archive/
+
+# Crawl backup directories
+data/backup_*/

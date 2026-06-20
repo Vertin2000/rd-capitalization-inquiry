@@ -1,0 +1,71 @@
+# Pipeline 工作流配置
+stages:
+  - name: "crawl"
+    description: "从巨潮资讯网抓取公告元数据"
+    input: null
+    output: "data/metadata/metadata.csv"
+
+  - name: "download"
+    description: "下载年报 PDF"
+    input: "data/metadata/metadata.csv"
+    output: "data/pdf/"
+
+  - name: "audit"
+    description: "数据质量审计"
+    input: "data/pdf/"
+    output: "outputs/dataset_check_report.md"
+
+  - name: "parse"
+    description: "使用 MinerU 解析 PDF 为 Markdown"
+    input: "data/pdf/"
+    output: "data/parsed/"
+
+  - name: "route"
+    description: "章节定位"
+    input: "data/parsed/"
+    output: "data/sections/"
+
+  - name: "extract"
+    description: "LLM 字段抽取"
+    input: "data/sections/"
+    output: "data/extracted/records.jsonl"
+
+  - name: "validate"
+    description: "Pydantic 校验"
+    input: "data/extracted/records.jsonl"
+    output: "data/validated/records.jsonl"
+
+  - name: "score"
+    description: "四维度评分模型"
+    input: "data/validated/records.jsonl"
+    output: "data/scored/records.jsonl"
+
+  - name: "detect"
+    description: "风险排序（标记重点复核样本）"
+    input: "data/scored/records.jsonl"
+    output: "data/anomaly/anomaly_list.csv"
+
+  - name: "inquiry"
+    description: "问询候选发现"
+    input: "data/metadata/metadata.csv"
+    output: "data/inquiry/inquiry_candidates.csv"
+
+  - name: "inquiry-download"
+    description: "下载问询候选 PDF"
+    input: "data/inquiry/inquiry_candidates.csv"
+    output: "data/inquiry/pdf/"
+
+  - name: "inquiry-label"
+    description: "问询候选相关性标签"
+    input: "data/inquiry/inquiry_candidates.csv"
+    output: "data/inquiry/inquiry_records.jsonl"
+
+  - name: "analyze"
+    description: "闭环分析与评估"
+    input: "data/scored/records.jsonl + data/inquiry/inquiry_records.jsonl"
+    output: "outputs/loop_evaluation.json"
+
+  - name: "report"
+    description: "报告生成"
+    input: "outputs/loop_evaluation.json"
+    output: "outputs/final_report.md"
