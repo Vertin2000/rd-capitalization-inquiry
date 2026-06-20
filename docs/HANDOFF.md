@@ -92,7 +92,7 @@
 
 ### 3.2 Hash 碰撞历史教训
 
-此前队友代码出现 131 份 PDF 只有 6 个唯一 hash 的惨剧，原因是：
+此前早期爬虫出现 131 份 PDF 只有 6 个唯一 hash 的问题，原因是：
 - 错误使用 `stock=f"{code},"`（API 会忽略该参数，返回市场-wide 第一条）
 - 错误使用 `searchkey=002230`（API 会模糊匹配到其他公司）
 - 未校验 `announcementTime` 类型（有时是毫秒时间戳）
@@ -505,7 +505,7 @@ git checkout -b experiment/cninfo-official-api
 - **不可用接口**：`p_cninfo5001`、`p_info3064`、`p_info3064t` 返回 415 “该用户没有购买包时长服务”，当前账号无权限。
 - **标题差异**：官方 API 返回标题为 `恒瑞医药：恒瑞医药2021年年度报告`，前端 AJAX 返回 `<em>恒瑞医药</em>2021年年度报告`。PDF URL 和发布日期完全一致，但 doc_id 因标题不同而不同。
 - **稳定性**：完整 150 份 crawl + download 全程仅出现 1 次 `static.cninfo.com.cn` 连接超时，下载器重试后成功。
-- **队友代码边界**：`temp-队友做的东西原件/` 中 Week 12 年报爬虫走的是前端公开接口 `hisAnnouncement/query`，不是官方 OAuth API；队友原件只能作为历史参考，不能作为接口来源或正确性证据。
+- **早期原型边界**：`temp-队友做的东西原件/` 中 Week 12 年报爬虫走的是前端公开接口 `hisAnnouncement/query`，不是官方 OAuth API；早期原型作为历史参考保留，接口来源与正确性以官方文档和当前代码实测为准。
 
 ### 11.4 决策与下一步
 
@@ -553,7 +553,7 @@ git checkout -b experiment/cninfo-official-api
 - 新增 `docs/cninfo_external_references.md`，集中记录 CNINFO 相关开源参考、license、影响范围和复用边界。
 - 补正 token 来源：`/api-cloud-platform/oauth2/token` 的调用方式来自 `haspower/cninfo_api` 这一外部线索；它仍不是官方 API 文档树来源，项目可靠性来自实际跑通的 150 份年报链路。
 - 记录 `legeling/Annualreport_tools` 只作为前端公告查询 `hisAnnouncement/query` 的工程参考；由于未见明确 LICENSE，不复制源码，不提交第三方代码。
-- 再次明确队友原始存档边界：队友代码只能作为历史参考，不能作为接口来源或正确性证据。
+- 再次明确早期原型存档边界：早期原型作为历史参考保留，接口来源与正确性以官方文档和当前代码实测为准。
 
 ### 11.7 2026-06-14 问询抓取修复：先发现、可断点、后下载
 

@@ -51,14 +51,14 @@ v1 与 final 共用同一句 system 指令（`src/extract/llm_client.py` `call_j
 
 ## v1 配置说明
 
-队友 Week 13 计划参数（见 `temp-队友做的东西原件/week13_extracted/week13/llm_parameters.md`，仅作历史参考，不可信来源）：
+Week 13 早期原型计划参数（见 `temp-队友做的东西原件/week13_extracted/week13/llm_parameters.md`，仅作历史参考）：
 
 - `LLM_PROVIDER=siliconflow`
 - `LLM_MODEL=Qwen/Qwen3-8B`
 - `temperature=0`
 - `max_tokens=2048`
 
-> 注意：队友存档为 UNTRUSTED SOURCE，上述参数仅记录历史计划，最终可靠性以当前代码实测为准。后续演进为 `Qwen/Qwen2.5-72B-Instruct` + Kimi Code CLI 后端。
+> 注意：上述参数为早期计划记录，最终可靠性以当前代码实测为准。后续演进为 `Qwen/Qwen2.5-72B-Instruct` + Kimi Code CLI 后端。
 
 ## v1 的不足（驱动迭代的动机）
 

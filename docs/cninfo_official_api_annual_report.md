@@ -83,7 +83,7 @@ client_secret={CNINFO_ACCESS_SECRET}
 - 原会话复盘显示，该端点的发现线索来自外部开源项目 [`haspower/cninfo_api`](https://github.com/haspower/cninfo_api)，不是来自项目归档或官方文档树。
 - 代码通过该端点能获取 `access_token`，并已支撑 `crawl -> download -> audit` 跑通 150 份年报。
 - `p_info3015` 在官方 API 文档树中有明确条目，网关码为 `a0fec4cde3bf4f83821fb5a769231100`。
-- 队友 Week 12 原始爬虫只使用 `www.cninfo.com.cn/new/hisAnnouncement/query` 和 `static.cninfo.com.cn`，未发现 OAuth2 官方 API 实现。
+- 早期 Week 12 原型爬虫只使用 `www.cninfo.com.cn/new/hisAnnouncement/query` 和 `static.cninfo.com.cn`，未发现 OAuth2 官方 API 实现。
 - `data/cninfo-api-archive/friend/pi-session-conversation.txt` 记录的是官方 API 文档树抓取过程，也未记录该 token 端点。
 
 因此本文把 token 端点记为“**外部开源线索 + 本项目实测可用的认证接口**”，而不是“已在公开 API 文档树中找到的接口”。外部来源边界见 [`cninfo_external_references.md`](cninfo_external_references.md)。如果后续认证失败，应优先复核该端点是否仍可用、账号权限是否变化、token 是否需要改用请求头或其它参数位置。

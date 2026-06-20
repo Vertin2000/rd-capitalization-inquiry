@@ -40,7 +40,7 @@
 
 ### AI 出过的错（已修正）
 
-- 队友代码 hash 碰撞（错误用 `stock=f"{code},"` 和 `searchkey=002230`）→ official API 路线重写，collision=0。
+- 早期爬虫 hash 碰撞（曾用 `stock=f"{code},"` 和 `searchkey=002230`）→ official API 路线重写，collision=0。
 - 旧 MinerU 环境手降到 `torch==2.4.0+cu121` 与 `mineru==3.2.3` 元数据冲突 → 改用 `uv tool install "mineru[all]" --torch-backend cu126`。
 - 问询标签 v1 简单关键词 OR 误判 → v2 脚本剪枝 + Tier-1 + LLM 语义二分类。
 - 文档措辞「异常检测/闭环验证」超出证据（TP=0）→ 统一降级为「风险排序/可行性测试」（详见 HANDOFF §十二）。

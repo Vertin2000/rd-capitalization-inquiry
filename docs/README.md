@@ -62,7 +62,7 @@
 
 | 文档 | 处理原因 |
 | --- | --- |
-| `prompt_v1.md` | 队友遗留产物，内容不可信，项目尚未产生真实 Prompt 迭代记录 |
+| `prompt_v1.md` | 早期原型阶段的 Prompt 计划记录，作为历史参考保留 |
 | `topic_expansion_proposal.md` | 已采纳并合并到 `topic_proposal.md`，作为独立文档已完成使命 |
 
 ---

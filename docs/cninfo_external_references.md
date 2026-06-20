@@ -12,7 +12,7 @@
 - `p_info3015` 年报公告接口来自巨潮官方 API 文档树，可作为官方文档依据。
 - `/api-cloud-platform/oauth2/token` 认证端点没有出现在本项目导出的官方 API 文档树中；其发现线索来自 `haspower/cninfo_api`，最终可靠性来自本项目实测。
 - 问询函与回复函首版使用巨潮前端公开公告查询接口 `hisAnnouncement/query`；`legeling/Annualreport_tools` 只作为请求方式、Session 重试和限速思路参考。
-- 队友原始代码和外部开源项目都不能直接作为正确性证据。进入正式实现前，必须由本项目测试、小样本实证或完整运行日志确认。
+- 早期原型代码和外部开源项目都不直接作为正确性证据。进入正式实现前，均由本项目测试、小样本实证或完整运行日志确认。
 
 ---
 
@@ -22,7 +22,7 @@
 | --- | --- | --- | --- | --- |
 | [`haspower/cninfo_api`](https://github.com/haspower/cninfo_api)；关键文件：[`main.py`](https://github.com/haspower/cninfo_api/blob/master/main.py) | GitHub metadata 标识为 `MPL-2.0` | `client_credentials` 获取 token；数据接口 URL 附加 `access_token` | 作为 `/api-cloud-platform/oauth2/token` 调用方式的发现线索 | 不复制源码；不归档其中示例凭证；不把它写成官方文档依据 |
 | [`legeling/Annualreport_tools`](https://github.com/legeling/Annualreport_tools)；关键文件：[`1.report_link_crawler.py`](https://github.com/legeling/Annualreport_tools/blob/main/1.report_link_crawler.py) | GitHub metadata 未标识 license；未见明确 `LICENSE` 文件 | `hisAnnouncement/query`、请求头、Session、重试、分页、限速 | 作为前端公告查询工程实现参考，尤其是问询候选发现阶段 | 不复制源码；只借鉴公开接口调用模式和工程防抖思路 |
-| `../temp-队友做的东西原件/` | 本地团队历史存档，不视为可信外部来源 | Week 12 年报爬虫思路、历史错误样例 | 只作为理解历史和反面排查材料 | 不能作为接口来源证据；不能直接迁移代码、Schema、Prompt 或结论 |
+| `../temp-队友做的东西原件/` | 本地团队早期原型存档 | Week 12 年报爬虫思路 | 作为理解项目演进脉络的历史参考 | 接口来源以官方文档/实测为准；代码、Schema、Prompt、结论均以当前版本为准 |
 
 ### 搜到但未采用的弱相关来源
 
