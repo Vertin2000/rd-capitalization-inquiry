@@ -1,0 +1,151 @@
+doc_id,company_code,company_name,year,industry,rd_expense_total,rd_capitalized_amount,rd_expensed_amount,capitalization_rate,calculated_capitalization_rate,aggressiveness_score,is_anomaly,anomaly_type,inquiry_received,capitalization_related,capitalization_confidence,prediction_result,candidate_count,data_quality_notes
+000063_中兴通讯_2021年报,000063,中兴通讯,2021,电子设备,1880400.0,180650.0,1699750.0,9.61,9.61,35.715,False,,False,False,0.0,,0,[]
+000063_中兴通讯_2022年报,000063,中兴通讯,2022,电子设备,2160230.0,182140.0,1978090.0,8.43,8.43,25.9767,False,,False,False,0.0,,0,[]
+000063_中兴通讯_2023年报,000063,中兴通讯,2023,电子设备,2678330.0,149410.0,2528920.0,5.58,5.58,39.4433,False,,False,False,0.0,,0,[]
+000538_云南白药_2021年报,000538,云南白药,2021,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+000538_云南白药_2022年报,000538,云南白药,2022,医药制造,34274.81,602.44,33672.37,1.76,1.76,10.0,False,,False,False,0.0,,0,[]
+000538_云南白药_2023年报,000538,云南白药,2023,医药制造,34444.15,842.8,33601.34,2.45,2.45,37.2175,False,,False,False,0.0,,0,[]
+000661_长春高新_2021年报,000661,长春高新,2021,医药制造,105419.49,16969.03,88450.46,16.1,16.1,35.715,False,,False,False,0.0,,0,[]
+000661_长春高新_2022年报,000661,长春高新,2022,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+000661_长春高新_2023年报,000661,长春高新,2023,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+000725_京东方A_2021年报,000725,京东方A,2021,电子设备,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+000725_京东方A_2022年报,000725,京东方A,2022,电子设备,1260188.05,203626.43,1056561.62,16.16,16.16,50.645,True,industry_outlier,False,False,0.0,,0,[]
+000725_京东方A_2023年报,000725,京东方A,2023,电子设备,1256335.27,209954.66,1046380.61,16.71,16.71,44.96,True,industry_outlier,False,False,0.0,,0,[]
+000963_华东医药_2021年报,000963,华东医药,2021,医药制造,96288.2,0.0,96288.2,0.0,0.0,14.285,False,,False,False,0.0,,0,[]
+000963_华东医药_2022年报,000963,华东医药,2022,医药制造,119630.95,22779.44,96851.51,19.04,19.04,46.6667,True,change_spike,False,False,0.0,,0,[]
+000963_华东医药_2023年报,000963,华东医药,2023,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+000977_浪潮信息_2021年报,000977,浪潮信息,2021,软件信息,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+000977_浪潮信息_2022年报,000977,浪潮信息,2022,软件信息,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+000977_浪潮信息_2023年报,000977,浪潮信息,2023,软件信息,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+000999_华润三九_2021年报,000999,华润三九,2021,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+000999_华润三九_2022年报,000999,华润三九,2022,医药制造,73638.47,16455.79,57182.68,22.35,22.35,30.0,False,,False,False,0.0,,0,[]
+000999_华润三九_2023年报,000999,华润三九,2023,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+002008_大族激光_2021年报,002008,大族激光,2021,电子设备,,5543.96,139445.3,3.82,3.82,28.57,False,,False,False,0.0,,0,['TODO: waiting for extract identity inputs']
+002008_大族激光_2022年报,002008,大族激光,2022,电子设备,162280.67,1486.95,160793.72,0.92,0.92,26.7933,False,,False,False,0.0,,0,[]
+002008_大族激光_2023年报,002008,大族激光,2023,电子设备,178328.38,1623.19,176705.19,0.91,0.91,24.495,False,,False,False,0.0,,0,[]
+002049_紫光国微_2021年报,002049,紫光国微,2021,电子设备,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+002049_紫光国微_2022年报,002049,紫光国微,2022,电子设备,124946.55,383.27,124563.28,0.31,0.31,38.46,False,,False,False,0.0,,0,[]
+002049_紫光国微_2023年报,002049,紫光国微,2023,电子设备,163285.23,7755.13,155530.11,4.75,4.75,50.715,True,industry_outlier,False,False,0.0,,0,[]
+002223_鱼跃医疗_2021年报,002223,鱼跃医疗,2021,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+002223_鱼跃医疗_2022年报,002223,鱼跃医疗,2022,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+002223_鱼跃医疗_2023年报,002223,鱼跃医疗,2023,医药制造,50437.12,0.0,50437.12,0.0,0.0,21.43,False,,False,False,0.0,,0,[]
+002230_科大讯飞_2021年报,002230,科大讯飞,2021,软件信息,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+002230_科大讯飞_2022年报,002230,科大讯飞,2022,软件信息,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+002230_科大讯飞_2023年报,002230,科大讯飞,2023,软件信息,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+002241_歌尔股份_2021年报,002241,歌尔股份,2021,电子设备,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+002241_歌尔股份_2022年报,002241,歌尔股份,2022,电子设备,519831.22,59727.81,460103.41,11.49,11.49,38.46,False,,False,False,0.0,,0,[]
+002241_歌尔股份_2023年报,002241,歌尔股份,2023,电子设备,525875.87,54278.93,471596.95,10.32,10.32,36.1983,False,,False,False,0.0,,0,[]
+002371_北方华创_2021年报,002371,北方华创,2021,电子设备,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+002371_北方华创_2022年报,002371,北方华创,2022,电子设备,356576.83,197780.98,158795.85,55.47,55.47,46.155,True,industry_outlier,False,False,0.0,,0,[]
+002371_北方华创_2023年报,002371,北方华创,2023,电子设备,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+002384_东山精密_2021年报,002384,东山精密,2021,电子设备,,,102856.72,,,0.0,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs']"
+002384_东山精密_2022年报,002384,东山精密,2022,电子设备,,,,,,0.0,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs']"
+002384_东山精密_2023年报,002384,东山精密,2023,电子设备,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+002410_广联达_2021年报,002410,广联达,2021,软件信息,168786.47,35437.22,133349.25,21.0,21.0,50.0,True,industry_outlier,False,False,0.0,,0,[]
+002410_广联达_2022年报,002410,广联达,2022,软件信息,195065.83,43542.07,151523.76,22.32,22.32,19.845,False,,False,False,0.0,,0,[]
+002410_广联达_2023年报,002410,广联达,2023,软件信息,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+002415_海康威视_2021年报,002415,海康威视,2021,电子设备,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+002415_海康威视_2022年报,002415,海康威视,2022,电子设备,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+002415_海康威视_2023年报,002415,海康威视,2023,电子设备,1139294.84,0.0,1139294.84,0.0,0.0,26.925,False,,False,False,0.0,,0,[]
+002422_科伦药业_2021年报,002422,科伦药业,2021,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+002422_科伦药业_2022年报,002422,科伦药业,2022,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+002422_科伦药业_2023年报,002422,科伦药业,2023,医药制造,195259.58,902.57,194357.01,0.46,0.46,28.57,False,,False,False,0.0,,0,[]
+002475_立讯精密_2021年报,002475,立讯精密,2021,电子设备,664230.04,0.0,664230.04,0.0,0.0,21.43,False,,False,False,0.0,,0,[]
+002475_立讯精密_2022年报,002475,立讯精密,2022,电子设备,844703.89,0.0,844703.89,0.0,0.0,11.6417,False,,False,False,0.0,,0,[]
+002475_立讯精密_2023年报,002475,立讯精密,2023,电子设备,818876.75,0.0,818876.75,0.0,0.0,19.335,False,,False,False,0.0,,0,[]
+002600_领益智造_2021年报,002600,领益智造,2021,电子设备,193747.16,23668.93,170078.23,12.22,12.22,42.855,False,,True,False,0.0,,3,[]
+002600_领益智造_2022年报,002600,领益智造,2022,电子设备,215669.96,6233.78,209436.18,2.89,2.89,51.2833,True,change_spike,False,False,0.0,,0,[]
+002600_领益智造_2023年报,002600,领益智造,2023,电子设备,181300.27,454.9,180845.37,0.25,0.25,31.025,False,,False,False,0.0,,0,[]
+002603_以岭药业_2021年报,002603,以岭药业,2021,医药制造,,,79216.27,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+002603_以岭药业_2022年报,002603,以岭药业,2022,医药制造,,,103200.645909,,,0.0,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs']"
+002603_以岭药业_2023年报,002603,以岭药业,2023,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+002821_凯莱英_2021年报,002821,凯莱英,2021,医药制造,,,38747.83,,,0.0,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs']"
+002821_凯莱英_2022年报,002821,凯莱英,2022,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+002821_凯莱英_2023年报,002821,凯莱英,2023,医药制造,70786.36,0.0,70786.36,0.0,0.0,21.43,False,,False,False,0.0,,0,[]
+002916_深南电路_2021年报,002916,深南电路,2021,电子设备,78242.44,0.0,78242.44,0.0,0.0,21.43,False,,False,False,0.0,,0,[]
+002916_深南电路_2022年报,002916,深南电路,2022,电子设备,81958.27,0.0,81958.27,0.0,0.0,11.6417,False,,False,False,0.0,,0,[]
+002916_深南电路_2023年报,002916,深南电路,2023,电子设备,107315.19,0.0,107315.19,0.0,0.0,19.335,False,,False,False,0.0,,0,[]
+002938_鹏鼎控股_2021年报,002938,鹏鼎控股,2021,电子设备,157179.08,0.0,157179.08,0.0,0.0,21.43,False,,False,False,0.0,,0,[]
+002938_鹏鼎控股_2022年报,002938,鹏鼎控股,2022,电子设备,167193.54,0.0,167193.54,0.0,0.0,11.6417,False,,False,False,0.0,,0,[]
+002938_鹏鼎控股_2023年报,002938,鹏鼎控股,2023,电子设备,195686.38,0.0,195686.38,0.0,0.0,24.8917,False,,False,False,0.0,,0,[]
+300015_爱尔眼科_2021年报,300015,爱尔眼科,2021,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+300015_爱尔眼科_2022年报,300015,爱尔眼科,2022,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+300015_爱尔眼科_2023年报,300015,爱尔眼科,2023,医药制造,,,33348.874698,,,0.0,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs']"
+300122_智飞生物_2021年报,300122,智飞生物,2021,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+300122_智飞生物_2022年报,300122,智飞生物,2022,医药制造,111337.16,25921.03,85416.13,23.28,23.28,48.335,True,industry_outlier,False,False,0.0,,0,[]
+300122_智飞生物_2023年报,300122,智飞生物,2023,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+300136_信维通信_2021年报,300136,信维通信,2021,电子设备,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+300136_信维通信_2022年报,300136,信维通信,2022,电子设备,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+300136_信维通信_2023年报,300136,信维通信,2023,电子设备,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+300142_沃森生物_2021年报,300142,沃森生物,2021,医药制造,,,,,,,False,,False,False,0.0,,3,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+300142_沃森生物_2022年报,300142,沃森生物,2022,医药制造,,105280.96,,,,0.0,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs']"
+300142_沃森生物_2023年报,300142,沃森生物,2023,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+300347_泰格医药_2021年报,300347,泰格医药,2021,医药制造,,,21182.860516,,,0.0,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs']"
+300347_泰格医药_2022年报,300347,泰格医药,2022,医药制造,,,23461.93,,,0.0,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs']"
+300347_泰格医药_2023年报,300347,泰格医药,2023,医药制造,,,26155.513031,,,0.0,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs']"
+300454_深信服_2021年报,300454,深信服,2021,软件信息,,,,,,0.0,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs']"
+300454_深信服_2022年报,300454,深信服,2022,软件信息,,,224777.56,,,0.0,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs']"
+300454_深信服_2023年报,300454,深信服,2023,软件信息,226619.64,0.0,226619.64,0.0,0.0,50.0,True,industry_outlier,False,False,0.0,,0,[]
+300759_康龙化成_2021年报,300759,康龙化成,2021,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+300759_康龙化成_2022年报,300759,康龙化成,2022,医药制造,,,,,,0.0,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs']"
+300759_康龙化成_2023年报,300759,康龙化成,2023,医药制造,,,44827.79,,,0.0,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs']"
+300760_迈瑞医疗_2021年报,300760,迈瑞医疗,2021,医药制造,272594.8142,20177.0517,252417.7625,7.4,7.4,28.57,False,,False,False,0.0,,0,[]
+300760_迈瑞医疗_2022年报,300760,迈瑞医疗,2022,医药制造,,22464.13,,,,16.67,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs']"
+300760_迈瑞医疗_2023年报,300760,迈瑞医疗,2023,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+600161_天坛生物_2021年报,600161,天坛生物,2021,医药制造,32205.94,18884.98,13320.97,58.64,58.64,50.0,True,industry_outlier,False,False,0.0,,0,[]
+600161_天坛生物_2022年报,600161,天坛生物,2022,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+600161_天坛生物_2023年报,600161,天坛生物,2023,医药制造,26128.94,15055.11,11073.83,57.62,57.62,38.2433,False,,False,False,0.0,,0,[]
+600183_生益科技_2021年报,600183,生益科技,2021,电子设备,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+600183_生益科技_2022年报,600183,生益科技,2022,电子设备,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+600183_生益科技_2023年报,600183,生益科技,2023,电子设备,84078.88,0.0,84078.88,0.0,0.0,26.925,False,,False,False,0.0,,0,[]
+600196_复星医药_2021年报,600196,复星医药,2021,医药制造,497500.0,114100.0,383400.0,22.93,22.93,59.52,True,industry_outlier,False,False,0.0,,0,[]
+600196_复星医药_2022年报,600196,复星医药,2022,医药制造,588500.0,158300.0,430200.0,26.9,26.9,56.7833,True,industry_outlier,False,False,0.0,,0,[]
+600196_复星医药_2023年报,600196,复星医药,2023,医药制造,593700.0,159100.0,434600.0,26.8,26.8,41.41,False,,False,False,0.0,,0,[]
+600276_恒瑞医药_2021年报,600276,恒瑞医药,2021,医药制造,620328.83,25998.23,594330.6,4.19,4.19,21.43,False,,False,False,0.0,,0,[]
+600276_恒瑞医药_2022年报,600276,恒瑞医药,2022,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+600276_恒瑞医药_2023年报,600276,恒瑞医药,2023,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+600436_片仔癀_2021年报,600436,片仔癀,2021,医药制造,19951.07,0.0,19951.07,0.0,0.0,14.285,False,,False,False,0.0,,0,[]
+600436_片仔癀_2022年报,600436,片仔癀,2022,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+600436_片仔癀_2023年报,600436,片仔癀,2023,医药制造,,,,,,,False,,True,False,0.0,,1,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+600570_恒生电子_2021年报,600570,恒生电子,2021,软件信息,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+600570_恒生电子_2022年报,600570,恒生电子,2022,软件信息,234628.1,0.0,234628.1,0.0,0.0,12.5,False,,False,False,0.0,,0,[]
+600570_恒生电子_2023年报,600570,恒生电子,2023,软件信息,266122.46,,266122.46,,,0.0,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs']"
+600588_用友网络_2021年报,600588,用友网络,2021,软件信息,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+600588_用友网络_2022年报,600588,用友网络,2022,软件信息,292996.5679,140304.9005,152691.6674,47.9,47.89,37.5,False,,False,False,0.0,,0,[]
+600588_用友网络_2023年报,600588,用友网络,2023,软件信息,,,,,,,False,,True,False,0.0,,2,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+600703_三安光电_2021年报,600703,三安光电,2021,电子设备,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+600703_三安光电_2022年报,600703,三安光电,2022,电子设备,159876.19,106803.0,53073.19,66.8,66.8,50.0,True,industry_outlier,False,False,0.0,,0,[]
+600703_三安光电_2023年报,600703,三安光电,2023,电子设备,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+600763_通策医疗_2021年报,600763,通策医疗,2021,医药制造,,,,,,0.0,False,,True,False,0.0,,5,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs']"
+600763_通策医疗_2022年报,600763,通策医疗,2022,医药制造,,,,,,0.0,False,,True,False,0.0,,2,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs']"
+600763_通策医疗_2023年报,600763,通策医疗,2023,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+600845_宝信软件_2021年报,600845,宝信软件,2021,软件信息,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+600845_宝信软件_2022年报,600845,宝信软件,2022,软件信息,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+600845_宝信软件_2023年报,600845,宝信软件,2023,软件信息,145419.95,0.0,145419.95,0.0,0.0,50.0,True,industry_outlier,False,False,0.0,,0,[]
+601360_三六零_2021年报,601360,三六零,2021,软件信息,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+601360_三六零_2022年报,601360,三六零,2022,软件信息,,,,,,,False,,True,False,0.0,,3,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+601360_三六零_2023年报,601360,三六零,2023,软件信息,310426.0,0.0,310426.0,0.0,0.0,50.0,True,industry_outlier,False,False,0.0,,0,[]
+603019_中科曙光_2021年报,603019,中科曙光,2021,软件信息,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+603019_中科曙光_2022年报,603019,中科曙光,2022,软件信息,247231.42,152077.15,95154.28,61.51,61.51,50.0,True,industry_outlier,False,False,0.0,,0,[]
+603019_中科曙光_2023年报,603019,中科曙光,2023,软件信息,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+603160_汇顶科技_2021年报,603160,汇顶科技,2021,电子设备,,29022.17,,,,0.0,False,,True,False,0.0,,2,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs']"
+603160_汇顶科技_2022年报,603160,汇顶科技,2022,电子设备,,,,,,16.67,False,,True,True,0.85,,4,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs']"
+603160_汇顶科技_2023年报,603160,汇顶科技,2023,电子设备,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+603259_药明康德_2021年报,603259,药明康德,2021,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+603259_药明康德_2022年报,603259,药明康德,2022,医药制造,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+603259_药明康德_2023年报,603259,药明康德,2023,医药制造,144063.04,0.0,144063.04,0.0,0.0,21.43,False,,False,False,0.0,,0,[]
+603501_韦尔股份_2021年报,603501,韦尔股份,2021,电子设备,,31225.89,166825.86,15.77,15.77,50.0,True,industry_outlier,False,False,0.0,,0,['TODO: waiting for extract identity inputs']
+603501_韦尔股份_2022年报,603501,韦尔股份,2022,电子设备,,,,,,,False,,True,False,0.0,,3,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+603501_韦尔股份_2023年报,603501,韦尔股份,2023,电子设备,,69252.978025,,,,16.67,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs']"
+603986_兆易创新_2021年报,603986,兆易创新,2021,电子设备,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+603986_兆易创新_2022年报,603986,兆易创新,2022,电子设备,102944.89,9386.53,93558.36,9.12,9.12,34.615,False,,False,False,0.0,,0,[]
+603986_兆易创新_2023年报,603986,兆易创新,2023,电子设备,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+688036_传音控股_2021年报,688036,传音控股,2021,电子设备,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+688036_传音控股_2022年报,688036,传音控股,2022,电子设备,207804.21,0.0,207804.21,0.0,0.0,15.385,False,,False,False,0.0,,0,[]
+688036_传音控股_2023年报,688036,传音控股,2023,电子设备,225597.99,0.0,225597.99,0.0,0.0,19.335,False,,False,False,0.0,,0,[]
+688111_金山办公_2021年报,688111,金山办公,2021,软件信息,108162.5,,108162.5,,,0.0,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs']"
+688111_金山办公_2022年报,688111,金山办公,2022,软件信息,133121.08,,133121.08,,,0.0,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs']"
+688111_金山办公_2023年报,688111,金山办公,2023,软件信息,147229.58,,147229.58,,,0.0,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs']"
+688981_中芯国际_2021年报,688981,中芯国际,2021,电子设备,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+688981_中芯国际_2022年报,688981,中芯国际,2022,电子设备,,,,,,,False,,False,False,0.0,,0,"['TODO: waiting for extract capitalization_rate', 'TODO: waiting for extract identity inputs', 'TODO: waiting for score', 'TODO: waiting for score inputs']"
+688981_中芯国际_2023年报,688981,中芯国际,2023,电子设备,499155.1,0.0,499155.1,0.0,0.0,26.925,False,,False,False,0.0,,0,[]

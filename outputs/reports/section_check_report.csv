@@ -1,0 +1,751 @@
+doc_id,title,target_section,found,section_title,page_start,page_end,quality_issue,notes
+000063_中兴通讯_2021年报,中兴通讯,会计政策,yes,14. 在建工程,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;note"
+000063_中兴通讯_2021年报,中兴通讯,研发费用,yes,3、本集团研发投入情况,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading;note"
+000063_中兴通讯_2021年报,中兴通讯,开发支出,yes,（四）本公司发行股份购买资产并募集配套资金情况,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+000063_中兴通讯_2021年报,中兴通讯,管理层讨论,yes,（二）管理层讨论与分析,,,page_unavailable,"keyword:管理层讨论与分析;positive:研发投入金额,研发人员数量,资本化的金额,资本化研发投入占研发投入的比例;table;heading;note"
+000063_中兴通讯_2021年报,中兴通讯,无形资产附注,yes,10. 长期股权投资(续),,,page_unavailable,"keyword:减值准备;positive:内部研发,减值准备,累计摊销;table;note"
+000063_中兴通讯_2022年报,中兴通讯,会计政策,yes,14. 在建工程,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;note"
+000063_中兴通讯_2022年报,中兴通讯,研发费用,yes,3.2.3.3 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading;note"
+000063_中兴通讯_2022年报,中兴通讯,开发支出,yes,（d） 开发支出,,,low_score(19);negative_keyword_hit;no_positive_keyword;page_unavailable,keyword:开发支出;negative:资产负债表;table;heading;note;balance_sheet_penalty
+000063_中兴通讯_2022年报,中兴通讯,管理层讨论,yes,3.2.3.3 研发投入,,,page_unavailable,"keyword:研发投入情况;positive:研发投入金额,研发人员数量,资本化的金额,资本化研发投入占研发投入的比例;table;heading;note"
+000063_中兴通讯_2022年报,中兴通讯,无形资产附注,yes,五、 合并财务报表主要项目注释（续）,,,page_unavailable,"keyword:无形资产;positive:内部研发,减值准备,累计摊销;table;heading;note"
+000063_中兴通讯_2023年报,中兴通讯,会计政策,yes,三、 重要会计政策及会计估计（续）,,,page_unavailable,"keyword:重要会计政策及会计估计;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;heading;note"
+000063_中兴通讯_2023年报,中兴通讯,研发费用,yes,（3）消费者业务,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,费用化的金额,资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table"
+000063_中兴通讯_2023年报,中兴通讯,开发支出,yes,三、重要会计政策及会计估计,,,page_unavailable,keyword:开发支出;positive:期末余额
+000063_中兴通讯_2023年报,中兴通讯,管理层讨论,yes,2.2.2.3 研发投入,,,page_unavailable,"keyword:研发投入情况;positive:研发投入金额,研发人员数量,费用化的金额,资本化的金额,资本化研发投入占研发投入的比例;table;heading;note"
+000063_中兴通讯_2023年报,中兴通讯,无形资产附注,yes,五、 合并财务报表主要项目注释（续）,,,page_unavailable,"keyword:无形资产;positive:内部研发,减值准备,累计摊销;table;heading;note"
+000538_云南白药_2021年报,云南白药,会计政策,yes,25、在建工程,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;note"
+000538_云南白药_2021年报,云南白药,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+000538_云南白药_2021年报,云南白药,开发支出,yes,4、研发投入,,,low_score(18);negative_keyword_hit;no_positive_keyword;page_unavailable,keyword:研发项目;negative:流动资产;table
+000538_云南白药_2021年报,云南白药,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+000538_云南白药_2021年报,云南白药,无形资产附注,yes,18、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+000538_云南白药_2022年报,云南白药,会计政策,yes,25、在建工程,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;note"
+000538_云南白药_2022年报,云南白药,研发费用,yes,6、持续加大研发投入，自研与产品引进双管齐下，推动打造全新增长极,,,page_unavailable,keyword:研发投入;positive:研发投入金额;heading
+000538_云南白药_2022年报,云南白药,开发支出,yes,（2）未办妥产权证书的土地使用权情况：无,,,page_unavailable,"keyword:开发支出;positive:本期增加,本期减少,期初余额,期末余额,内部开发支出;table;heading"
+000538_云南白药_2022年报,云南白药,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+000538_云南白药_2022年报,云南白药,无形资产附注,yes,26、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+000538_云南白药_2023年报,云南白药,会计政策,yes,（2）生产性生物资产,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件;note"
+000538_云南白药_2023年报,云南白药,研发费用,yes,（4）持续加大研发创新投入，以科学高效的研发管理体系夯实研发战略目标,,,no_positive_keyword;page_unavailable,keyword:研发投入;table;heading
+000538_云南白药_2023年报,云南白药,开发支出,yes,35、长期借款,,,page_unavailable,"keyword:研发项目;positive:本期增加,本期减少,期初余额,期末余额;table"
+000538_云南白药_2023年报,云南白药,管理层讨论,yes,第三节 管理层讨论与分析,,,low_score(10);negative_keyword_hit;no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;negative:董事长;heading
+000538_云南白药_2023年报,云南白药,无形资产附注,yes,（2） 存货跌价准备和合同履约成本减值准备,,,page_unavailable,"keyword:减值准备;positive:本期增加,本期减少,减值准备,累计摊销,期末余额;table;heading"
+000661_长春高新_2021年报,长春高新,会计政策,yes,（2）资本化金额计算方法,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;heading;note"
+000661_长春高新_2021年报,长春高新,研发费用,yes,（2）产品研发,,,no_positive_keyword;page_unavailable,keyword:研发投入;table;note
+000661_长春高新_2021年报,长春高新,开发支出,yes,（2）产品研发,,,no_positive_keyword;page_unavailable,keyword:研发项目;table;note
+000661_长春高新_2021年报,长春高新,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+000661_长春高新_2021年报,长春高新,无形资产附注,yes,（3）本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+000661_长春高新_2022年报,长春高新,会计政策,yes,（2）资本化金额计算方法,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;heading;note"
+000661_长春高新_2022年报,长春高新,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+000661_长春高新_2022年报,长春高新,开发支出,yes,（2）项目建设,,,no_positive_keyword;page_unavailable,keyword:在研项目;table
+000661_长春高新_2022年报,长春高新,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+000661_长春高新_2022年报,长春高新,无形资产附注,yes,14、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+000661_长春高新_2023年报,长春高新,会计政策,yes,23、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;heading;note"
+000661_长春高新_2023年报,长春高新,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+000661_长春高新_2023年报,长春高新,开发支出,yes,（3） 与筹资活动有关的现金,,,page_unavailable,"keyword:研发项目;positive:本期增加,本期减少,期初余额,期末余额;table;note"
+000661_长春高新_2023年报,长春高新,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+000661_长春高新_2023年报,长春高新,无形资产附注,yes,15、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+000725_京东方A_2021年报,京东方A,会计政策,yes,(2) 固定资产的折旧方法,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;note"
+000725_京东方A_2021年报,京东方A,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+000725_京东方A_2021年报,京东方A,开发支出,yes,5、现金流,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+000725_京东方A_2021年报,京东方A,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+000725_京东方A_2021年报,京东方A,无形资产附注,yes,9、 持有待售资产,,,page_unavailable,"keyword:减值准备;positive:减值准备,累计摊销,期末余额;table;note"
+000725_京东方A_2022年报,京东方A,会计政策,yes,(2) 固定资产的折旧方法,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;note"
+000725_京东方A_2022年报,京东方A,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+000725_京东方A_2022年报,京东方A,开发支出,yes,5、现金流,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+000725_京东方A_2022年报,京东方A,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+000725_京东方A_2022年报,京东方A,无形资产附注,yes,(3) 减值测试方法及减值准备计提方法参见附注三、19。,,,page_unavailable,"keyword:减值准备;positive:减值准备,累计摊销;table;heading;note"
+000725_京东方A_2023年报,京东方A,会计政策,yes,17、 无形资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;heading;note"
+000725_京东方A_2023年报,京东方A,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+000725_京东方A_2023年报,京东方A,开发支出,yes,5、现金流,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+000725_京东方A_2023年报,京东方A,管理层讨论,yes,第三节 管理层讨论与分析,,,low_score(10);negative_keyword_hit;no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;negative:公司简介;heading
+000725_京东方A_2023年报,京东方A,无形资产附注,yes,18、 无形资产,,,page_unavailable,"keyword:无形资产;positive:开发支出转入,减值准备,累计摊销;table;heading"
+000963_华东医药_2021年报,华东医药,会计政策,yes,26、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;heading"
+000963_华东医药_2021年报,华东医药,研发费用,yes,4、研发投入,,,no_positive_keyword;page_unavailable,keyword:研发投入;table;heading
+000963_华东医药_2021年报,华东医药,开发支出,yes,（2）内部研究开发支出会计政策,,,negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:确认为无形资产,转入当期损益;negative:资产负债表;table;heading;balance_sheet_penalty"
+000963_华东医药_2021年报,华东医药,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+000963_华东医药_2021年报,华东医药,无形资产附注,yes,（3）本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+000963_华东医药_2022年报,华东医药,会计政策,yes,2. 借款费用资本化期间,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;heading"
+000963_华东医药_2022年报,华东医药,研发费用,yes,4、研发投入,,,no_positive_keyword;page_unavailable,keyword:研发投入;table;heading
+000963_华东医药_2022年报,华东医药,开发支出,yes,27、开发支出,,,negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:本期增加,本期减少,期初余额,期末余额,资本化开始时点;negative:流动资产,非流动资产;table;heading"
+000963_华东医药_2022年报,华东医药,管理层讨论,yes,第三节管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+000963_华东医药_2022年报,华东医药,无形资产附注,yes,（3）本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+000963_华东医药_2023年报,华东医药,会计政策,yes,3. 借款费用资本化率以及资本化金额,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件;table;heading"
+000963_华东医药_2023年报,华东医药,研发费用,yes,4、研发投入,,,no_positive_keyword;page_unavailable,keyword:研发投入;table;heading
+000963_华东医药_2023年报,华东医药,开发支出,yes,（1）研发总体情况,,,no_positive_keyword;page_unavailable,keyword:在研项目;table
+000963_华东医药_2023年报,华东医药,管理层讨论,yes,第三节管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+000963_华东医药_2023年报,华东医药,无形资产附注,yes,（3）本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+000977_浪潮信息_2021年报,浪潮信息,会计政策,yes,（2）资本化金额计算方法,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;heading"
+000977_浪潮信息_2021年报,浪潮信息,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+000977_浪潮信息_2021年报,浪潮信息,开发支出,yes,5、现金流,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+000977_浪潮信息_2021年报,浪潮信息,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+000977_浪潮信息_2021年报,浪潮信息,无形资产附注,yes,14、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+000977_浪潮信息_2022年报,浪潮信息,会计政策,yes,（2）资本化金额计算方法,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;heading"
+000977_浪潮信息_2022年报,浪潮信息,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+000977_浪潮信息_2022年报,浪潮信息,开发支出,yes,3、董事、监事、高级管理人员报酬情况,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+000977_浪潮信息_2022年报,浪潮信息,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+000977_浪潮信息_2022年报,浪潮信息,无形资产附注,yes,（3） 本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+000977_浪潮信息_2023年报,浪潮信息,会计政策,yes,4． 借款费用资本化金额的计算方法,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;heading;note"
+000977_浪潮信息_2023年报,浪潮信息,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+000977_浪潮信息_2023年报,浪潮信息,开发支出,yes,3、董事、监事、高级管理人员报酬情况,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+000977_浪潮信息_2023年报,浪潮信息,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+000977_浪潮信息_2023年报,浪潮信息,无形资产附注,yes,（3） 本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+000999_华润三九_2021年报,华润三九,会计政策,yes,13、在建工程,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table"
+000999_华润三九_2021年报,华润三九,研发费用,yes,（一）研发投入持续加大，创新能力稳步提升,,,no_positive_keyword;page_unavailable,keyword:研发投入;table;heading;note
+000999_华润三九_2021年报,华润三九,开发支出,yes,（二）深化质量管理体系，践行绿色发展理念,,,no_positive_keyword;page_unavailable,keyword:在研项目;table;note
+000999_华润三九_2021年报,华润三九,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading;note
+000999_华润三九_2021年报,华润三九,无形资产附注,yes,在建工程减值准备：,,,page_unavailable,"keyword:减值准备;positive:内部研发,减值准备,累计摊销,期末余额;table;heading;note"
+000999_华润三九_2022年报,华润三九,会计政策,yes,13、在建工程,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出"
+000999_华润三九_2022年报,华润三九,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+000999_华润三九_2022年报,华润三九,开发支出,yes,（二）保障质量管理体系高效运行，推进绿色低碳可持续发展,,,no_positive_keyword;page_unavailable,keyword:在研项目;table;note
+000999_华润三九_2022年报,华润三九,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading;note
+000999_华润三九_2022年报,华润三九,无形资产附注,yes,12、其他非流动金融资产,,,page_unavailable,"keyword:减值准备;positive:内部研发,减值准备,累计摊销,期末余额;table;note"
+000999_华润三九_2023年报,华润三九,会计政策,yes,14、在建工程,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;note"
+000999_华润三九_2023年报,华润三九,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+000999_华润三九_2023年报,华润三九,开发支出,yes,（一）研发引领，创新驱动，赋能企业核心竞争力打造,,,no_positive_keyword;page_unavailable,keyword:在研项目;table;note
+000999_华润三九_2023年报,华润三九,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading;note
+000999_华润三九_2023年报,华润三九,无形资产附注,yes,17、在建工程,,,page_unavailable,"keyword:减值准备;positive:内部研发,减值准备,累计摊销,期末余额;table;note"
+002008_大族激光_2021年报,大族激光,会计政策,yes,20、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;heading"
+002008_大族激光_2021年报,大族激光,研发费用,yes,（6）加大光伏行业研发投入，布局HJT、TOPCON高效电池设备产品,,,no_positive_keyword;page_unavailable,keyword:研发投入;table;heading
+002008_大族激光_2021年报,大族激光,开发支出,yes,（5）半导体及泛半导体行业晶圆加工设备业务快速放量，显示面板行业专用设备保持稳步增长,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+002008_大族激光_2021年报,大族激光,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002008_大族激光_2021年报,大族激光,无形资产附注,yes,17、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002008_大族激光_2022年报,大族激光,会计政策,yes,20、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件;table;heading"
+002008_大族激光_2022年报,大族激光,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002008_大族激光_2022年报,大族激光,开发支出,yes,6、核心技术人员流失的风险,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+002008_大族激光_2022年报,大族激光,管理层讨论,yes,第三节管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002008_大族激光_2022年报,大族激光,无形资产附注,yes,19、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002008_大族激光_2023年报,大族激光,会计政策,yes,20、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件;table;heading"
+002008_大族激光_2023年报,大族激光,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002008_大族激光_2023年报,大族激光,开发支出,yes,6、同一控制下和非同一控制下企业合并的会计处理方法,,,low_score(26);negative_keyword_hit;page_unavailable,keyword:开发支出;positive:期末余额;negative:资产负债表;table;note;balance_sheet_penalty
+002008_大族激光_2023年报,大族激光,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002008_大族激光_2023年报,大族激光,无形资产附注,yes,（3）本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002049_紫光国微_2021年报,紫光国微,会计政策,yes,2、借款费用资本化期间,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;heading"
+002049_紫光国微_2021年报,紫光国微,研发费用,yes,3、半导体功率器件业务,,,page_unavailable,keyword:研发投入;positive:研发投入金额;table
+002049_紫光国微_2021年报,紫光国微,开发支出,yes,（十五）开发支出,,,negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:本期增加,本期减少,期初余额,期末余额,内部开发支出;negative:流动资产,非流动资产;table;heading;note"
+002049_紫光国微_2021年报,紫光国微,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002049_紫光国微_2021年报,紫光国微,无形资产附注,yes,（十四）无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading;note"
+002049_紫光国微_2022年报,紫光国微,会计政策,yes,15、投资性房地产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table"
+002049_紫光国微_2022年报,紫光国微,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002049_紫光国微_2022年报,紫光国微,开发支出,yes,2、产品突破、技术突破,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+002049_紫光国微_2022年报,紫光国微,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002049_紫光国微_2022年报,紫光国微,无形资产附注,yes,（2） 本年合同资产计提减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading;note"
+002049_紫光国微_2023年报,紫光国微,会计政策,yes,18、在建工程,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table"
+002049_紫光国微_2023年报,紫光国微,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002049_紫光国微_2023年报,紫光国微,开发支出,yes,36.1 专项应付款,,,no_positive_keyword;page_unavailable,keyword:研发项目;table;note
+002049_紫光国微_2023年报,紫光国微,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002049_紫光国微_2023年报,紫光国微,无形资产附注,yes,17. 无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading;note"
+002223_鱼跃医疗_2021年报,鱼跃医疗,会计政策,yes,26、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出"
+002223_鱼跃医疗_2021年报,鱼跃医疗,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002223_鱼跃医疗_2021年报,鱼跃医疗,开发支出,yes,（2）内部研究开发支出会计政策,,,low_score(29);negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:确认为无形资产,转入当期损益;negative:资产负债表;heading;balance_sheet_penalty"
+002223_鱼跃医疗_2021年报,鱼跃医疗,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002223_鱼跃医疗_2021年报,鱼跃医疗,无形资产附注,yes,26、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading;note"
+002223_鱼跃医疗_2022年报,鱼跃医疗,会计政策,yes,24、固定资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table"
+002223_鱼跃医疗_2022年报,鱼跃医疗,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002223_鱼跃医疗_2022年报,鱼跃医疗,开发支出,yes,（2） 内部研究开发支出会计政策,,,low_score(29);negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:确认为无形资产,转入当期损益;negative:资产负债表;heading;balance_sheet_penalty"
+002223_鱼跃医疗_2022年报,鱼跃医疗,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002223_鱼跃医疗_2022年报,鱼跃医疗,无形资产附注,yes,（3） 本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002223_鱼跃医疗_2023年报,鱼跃医疗,会计政策,yes,25、在建工程,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出"
+002223_鱼跃医疗_2023年报,鱼跃医疗,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002223_鱼跃医疗_2023年报,鱼跃医疗,开发支出,yes,3、合并利润表,,,negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:本期减少,期初余额,期末余额;negative:流动资产,非流动资产,资产总计;table;note"
+002223_鱼跃医疗_2023年报,鱼跃医疗,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002223_鱼跃医疗_2023年报,鱼跃医疗,无形资产附注,yes,26、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002230_科大讯飞_2021年报,科大讯飞,会计政策,yes,24、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;heading"
+002230_科大讯飞_2021年报,科大讯飞,研发费用,yes,4、研发投入,,,negative_keyword_hit;page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;negative:董事长;table;heading"
+002230_科大讯飞_2021年报,科大讯飞,开发支出,yes,18、开发支出,,,negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:本期增加,本期减少,期初余额,期末余额,内部开发支出;negative:流动资产,非流动资产;table;heading"
+002230_科大讯飞_2021年报,科大讯飞,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002230_科大讯飞_2021年报,科大讯飞,无形资产附注,yes,17、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002230_科大讯飞_2022年报,科大讯飞,会计政策,yes,24、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;heading"
+002230_科大讯飞_2022年报,科大讯飞,研发费用,yes,4、研发投入,,,negative_keyword_hit;page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;negative:董事长;table;heading"
+002230_科大讯飞_2022年报,科大讯飞,开发支出,yes,18、开发支出,,,negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:本期增加,本期减少,期初余额,期末余额,内部开发支出;negative:流动资产,非流动资产;table;heading"
+002230_科大讯飞_2022年报,科大讯飞,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002230_科大讯飞_2022年报,科大讯飞,无形资产附注,yes,17、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002230_科大讯飞_2023年报,科大讯飞,会计政策,yes,24、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件;table;heading"
+002230_科大讯飞_2023年报,科大讯飞,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002230_科大讯飞_2023年报,科大讯飞,开发支出,yes,开发支出,,,no_positive_keyword;page_unavailable,keyword:开发支出;table;heading
+002230_科大讯飞_2023年报,科大讯飞,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002230_科大讯飞_2023年报,科大讯飞,无形资产附注,yes,17、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002241_歌尔股份_2021年报,歌尔股份,会计政策,yes,24、无形资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;heading;note"
+002241_歌尔股份_2021年报,歌尔股份,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002241_歌尔股份_2021年报,歌尔股份,开发支出,yes,（2）内部研究开发支出会计政策,,,low_score(22);negative_keyword_hit;page_unavailable,keyword:开发支出;positive:确认为无形资产;negative:资产负债表;heading;note;balance_sheet_penalty
+002241_歌尔股份_2021年报,歌尔股份,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002241_歌尔股份_2021年报,歌尔股份,无形资产附注,yes,（3）本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002241_歌尔股份_2022年报,歌尔股份,会计政策,yes,24、无形资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;heading;note"
+002241_歌尔股份_2022年报,歌尔股份,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002241_歌尔股份_2022年报,歌尔股份,开发支出,yes,18、开发支出,,,negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:本期增加,本期减少,期初余额,期末余额,内部开发支出;negative:流动资产,非流动资产;table;heading;note"
+002241_歌尔股份_2022年报,歌尔股份,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002241_歌尔股份_2022年报,歌尔股份,无形资产附注,yes,（3）本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002241_歌尔股份_2023年报,歌尔股份,会计政策,yes,6、同一控制下和非同一控制下企业合并的会计处理方法,,,page_unavailable,"keyword:资本化;positive:资本化条件,开发支出;table;note"
+002241_歌尔股份_2023年报,歌尔股份,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002241_歌尔股份_2023年报,歌尔股份,开发支出,yes,20、开发支出,,,page_unavailable,"keyword:开发支出;positive:本期增加,本期减少,期初余额,期末余额,内部开发支出;table;heading"
+002241_歌尔股份_2023年报,歌尔股份,管理层讨论,yes,第三节管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002241_歌尔股份_2023年报,歌尔股份,无形资产附注,yes,（3） 本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002371_北方华创_2021年报,北方华创,会计政策,yes,25、在建工程,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;note"
+002371_北方华创_2021年报,北方华创,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002371_北方华创_2021年报,北方华创,开发支出,yes,（二）非公开发行募集资金85亿元，支撑公司战略项目顺利实施。,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+002371_北方华创_2021年报,北方华创,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+002371_北方华创_2021年报,北方华创,无形资产附注,yes,（3）本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002371_北方华创_2022年报,北方华创,会计政策,yes,25.在建工程,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;note"
+002371_北方华创_2022年报,北方华创,研发费用,yes,4.研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002371_北方华创_2022年报,北方华创,开发支出,yes,⑤开发支出,,,page_unavailable,"keyword:开发支出;positive:期初余额,期末余额;table;heading"
+002371_北方华创_2022年报,北方华创,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002371_北方华创_2022年报,北方华创,无形资产附注,yes,（3）本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002371_北方华创_2023年报,北方华创,会计政策,yes,24．固定资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,内部研究开发,资本化条件;table"
+002371_北方华创_2023年报,北方华创,研发费用,yes,（四）研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002371_北方华创_2023年报,北方华创,开发支出,yes,⑤开发支出,,,page_unavailable,"keyword:开发支出;positive:期初余额,期末余额;table;heading"
+002371_北方华创_2023年报,北方华创,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002371_北方华创_2023年报,北方华创,无形资产附注,yes,26．无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002384_东山精密_2021年报,东山精密,会计政策,yes,18、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;heading"
+002384_东山精密_2021年报,东山精密,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002384_东山精密_2021年报,东山精密,开发支出,yes,（2）内部研究开发支出会计政策,,,negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:确认为无形资产,转入当期损益;negative:资产负债表;table;heading;balance_sheet_penalty"
+002384_东山精密_2021年报,东山精密,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002384_东山精密_2021年报,东山精密,无形资产附注,yes,17、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002384_东山精密_2022年报,东山精密,会计政策,yes,18、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;heading"
+002384_东山精密_2022年报,东山精密,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002384_东山精密_2022年报,东山精密,开发支出,yes,（2）内部研究开发支出会计政策,,,negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:确认为无形资产,转入当期损益;negative:资产负债表;table;heading;balance_sheet_penalty"
+002384_东山精密_2022年报,东山精密,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002384_东山精密_2022年报,东山精密,无形资产附注,yes,17、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002384_东山精密_2023年报,东山精密,会计政策,yes,29、无形资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,内部研究开发,开发支出;table;heading"
+002384_东山精密_2023年报,东山精密,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002384_东山精密_2023年报,东山精密,开发支出,yes,5、现金流,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+002384_东山精密_2023年报,东山精密,管理层讨论,yes,第三节管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+002384_东山精密_2023年报,东山精密,无形资产附注,yes,26、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002410_广联达_2021年报,广联达,会计政策,yes,（2）借款费用资本化期间,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading;note"
+002410_广联达_2021年报,广联达,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002410_广联达_2021年报,广联达,开发支出,yes,17、开发支出,,,negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:本期增加,本期减少,期初余额,期末余额,内部开发支出;negative:流动资产,非流动资产;table;heading;note"
+002410_广联达_2021年报,广联达,管理层讨论,yes,第三节 管理层讨论与分析,,,low_score(22);negative_keyword_hit;no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;negative:董事长;table;heading
+002410_广联达_2021年报,广联达,无形资产附注,yes,16、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading;note"
+002410_广联达_2022年报,广联达,会计政策,yes,23、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading;note"
+002410_广联达_2022年报,广联达,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002410_广联达_2022年报,广联达,开发支出,yes,17、开发支出,,,negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:本期增加,本期减少,期初余额,期末余额,内部开发支出;negative:流动资产,非流动资产;table;heading;note"
+002410_广联达_2022年报,广联达,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002410_广联达_2022年报,广联达,无形资产附注,yes,16、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading;note"
+002410_广联达_2023年报,广联达,会计政策,yes,19、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+002410_广联达_2023年报,广联达,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002410_广联达_2023年报,广联达,开发支出,yes,17、开发支出,,,page_unavailable,"keyword:开发支出;positive:本期增加,本期减少,期初余额,期末余额,内部开发支出;table;heading"
+002410_广联达_2023年报,广联达,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002410_广联达_2023年报,广联达,无形资产附注,yes,16、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002415_海康威视_2021年报,海康威视,会计政策,yes,19. 无形资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading;note"
+002415_海康威视_2021年报,海康威视,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002415_海康威视_2021年报,海康威视,开发支出,yes,19.2 内部研究开发支出会计政策,,,low_score(22);negative_keyword_hit;page_unavailable,keyword:开发支出;positive:确认为无形资产;negative:资产负债表;heading;note;balance_sheet_penalty
+002415_海康威视_2021年报,海康威视,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002415_海康威视_2021年报,海康威视,无形资产附注,yes,(五) 合并财务报表项目注释 - 续,,,page_unavailable,"keyword:无形资产;positive:减值准备,累计摊销;table;heading;note"
+002415_海康威视_2022年报,海康威视,会计政策,yes,19. 无形资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading;note"
+002415_海康威视_2022年报,海康威视,研发费用,yes,1、持续高强度的研发投入，构建全面的技术、产品体系,,,no_positive_keyword;page_unavailable,keyword:研发投入;table;heading
+002415_海康威视_2022年报,海康威视,开发支出,yes,19.2 内部研究开发支出会计政策,,,low_score(22);negative_keyword_hit;page_unavailable,keyword:开发支出;positive:确认为无形资产;negative:资产负债表;heading;note;balance_sheet_penalty
+002415_海康威视_2022年报,海康威视,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002415_海康威视_2022年报,海康威视,无形资产附注,yes,(五) 合并财务报表项目注释 - 续,,,page_unavailable,"keyword:减值准备;positive:减值准备,累计摊销;table;note"
+002415_海康威视_2023年报,海康威视,会计政策,yes,22. 无形资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,资本化条件,达到预定用途;table;heading"
+002415_海康威视_2023年报,海康威视,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002415_海康威视_2023年报,海康威视,开发支出,yes,23. 长期资产减值,,,low_score(-9);negative_keyword_hit;no_positive_keyword;page_unavailable,keyword:研发项目;negative:资产负债表;balance_sheet_penalty
+002415_海康威视_2023年报,海康威视,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002415_海康威视_2023年报,海康威视,无形资产附注,yes,18、 无形资产,,,page_unavailable,"keyword:无形资产;positive:减值准备,累计摊销;table;heading;note"
+002422_科伦药业_2021年报,科伦药业,会计政策,yes,（1）确认条件,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;note"
+002422_科伦药业_2021年报,科伦药业,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002422_科伦药业_2021年报,科伦药业,开发支出,yes,2.3 知识产权情况与分析,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+002422_科伦药业_2021年报,科伦药业,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+002422_科伦药业_2021年报,科伦药业,无形资产附注,yes,（3）本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002422_科伦药业_2022年报,科伦药业,会计政策,yes,25、在建工程,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;note"
+002422_科伦药业_2022年报,科伦药业,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002422_科伦药业_2022年报,科伦药业,开发支出,yes,（4） 合同履约成本本期摊销金额的说明,,,negative_keyword_hit;page_unavailable,"keyword:研发项目;positive:本期增加,本期减少,期初余额,期末余额;negative:流动资产,非流动资产;table"
+002422_科伦药业_2022年报,科伦药业,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+002422_科伦药业_2022年报,科伦药业,无形资产附注,yes,（3） 本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002422_科伦药业_2023年报,科伦药业,会计政策,yes,27、生物资产,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件;table"
+002422_科伦药业_2023年报,科伦药业,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002422_科伦药业_2023年报,科伦药业,开发支出,yes,（4）合同履约成本本期摊销金额的说明,,,negative_keyword_hit;page_unavailable,"keyword:研发项目;positive:本期增加,本期减少,期初余额,期末余额;negative:流动资产,非流动资产;table"
+002422_科伦药业_2023年报,科伦药业,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002422_科伦药业_2023年报,科伦药业,无形资产附注,yes,（3）本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002475_立讯精密_2021年报,立讯精密,会计政策,yes,2.借款费用资本化期间,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading;note"
+002475_立讯精密_2021年报,立讯精密,研发费用,yes,（三）研发与技术创新,,,no_positive_keyword;page_unavailable,keyword:研发投入;table;heading
+002475_立讯精密_2021年报,立讯精密,开发支出,yes,（2）内部研究开发支出会计政策,,,low_score(26);negative_keyword_hit;page_unavailable,keyword:开发支出;positive:确认为无形资产;negative:资产负债表;table;heading;balance_sheet_penalty
+002475_立讯精密_2021年报,立讯精密,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002475_立讯精密_2021年报,立讯精密,无形资产附注,yes,（3）本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002475_立讯精密_2022年报,立讯精密,会计政策,yes,23、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading;note"
+002475_立讯精密_2022年报,立讯精密,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002475_立讯精密_2022年报,立讯精密,开发支出,yes,5、现金流,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+002475_立讯精密_2022年报,立讯精密,管理层讨论,yes,5、现金流,,,page_unavailable,"keyword:研发投入情况;positive:研发投入金额,研发人员数量,资本化的金额,资本化研发投入占研发投入的比例;table"
+002475_立讯精密_2022年报,立讯精密,无形资产附注,yes,（3） 本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002475_立讯精密_2023年报,立讯精密,会计政策,yes,19、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+002475_立讯精密_2023年报,立讯精密,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002475_立讯精密_2023年报,立讯精密,开发支出,yes,5、现金流,,,low_score(-2);negative_keyword_hit;no_positive_keyword;page_unavailable,"keyword:研发项目;negative:流动资产,非流动资产;table"
+002475_立讯精密_2023年报,立讯精密,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+002475_立讯精密_2023年报,立讯精密,无形资产附注,yes,19、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002600_领益智造_2021年报,领益智造,会计政策,yes,（3）暂停资本化期间,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+002600_领益智造_2021年报,领益智造,研发费用,yes,（1）深耕消费电子行业，实现稳健发展,,,page_unavailable,keyword:研发投入;positive:研发投入金额;table
+002600_领益智造_2021年报,领益智造,开发支出,yes,（2）内部研究开发支出会计政策,,,low_score(14);negative_keyword_hit;page_unavailable,keyword:开发支出;positive:确认为无形资产;negative:资产负债表;heading;balance_sheet_penalty
+002600_领益智造_2021年报,领益智造,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002600_领益智造_2021年报,领益智造,无形资产附注,yes,26、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002600_领益智造_2022年报,领益智造,会计政策,yes,（4）借款费用资本化金额的计算方法,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+002600_领益智造_2022年报,领益智造,研发费用,yes,2、收入与成本,,,page_unavailable,keyword:研发投入;positive:研发投入金额;table
+002600_领益智造_2022年报,领益智造,开发支出,yes,5、现金流,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+002600_领益智造_2022年报,领益智造,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002600_领益智造_2022年报,领益智造,无形资产附注,yes,（3）本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002600_领益智造_2023年报,领益智造,会计政策,yes,28、油气资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+002600_领益智造_2023年报,领益智造,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002600_领益智造_2023年报,领益智造,开发支出,yes,2、收入与成本,,,page_unavailable,keyword:研发项目;positive:本期增加;table
+002600_领益智造_2023年报,领益智造,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002600_领益智造_2023年报,领益智造,无形资产附注,yes,（3）本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002603_以岭药业_2021年报,以岭药业,会计政策,yes,18、在建工程,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;note"
+002603_以岭药业_2021年报,以岭药业,研发费用,yes,（四）研发投入情况,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,研发投入占营业收入比例;table;heading"
+002603_以岭药业_2021年报,以岭药业,开发支出,yes,5、现金流,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+002603_以岭药业_2021年报,以岭药业,管理层讨论,yes,（四）研发投入情况,,,page_unavailable,keyword:研发投入情况;positive:研发投入金额;table;heading
+002603_以岭药业_2021年报,以岭药业,无形资产附注,yes,15、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002603_以岭药业_2022年报,以岭药业,会计政策,yes,18、在建工程,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;note"
+002603_以岭药业_2022年报,以岭药业,研发费用,yes,（四）研发投入情况,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,研发投入占营业收入比例;table;heading"
+002603_以岭药业_2022年报,以岭药业,开发支出,yes,（7）开发支出,,,page_unavailable,"keyword:开发支出;positive:期初余额,期末余额;table;heading;note"
+002603_以岭药业_2022年报,以岭药业,管理层讨论,yes,（四）研发投入情况,,,page_unavailable,keyword:研发投入情况;positive:研发投入金额;table;heading
+002603_以岭药业_2022年报,以岭药业,无形资产附注,yes,16、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002603_以岭药业_2023年报,以岭药业,会计政策,yes,17、在建工程,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件;table;note"
+002603_以岭药业_2023年报,以岭药业,研发费用,yes,（四）研发投入情况,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,研发投入占营业收入比例;table;heading"
+002603_以岭药业_2023年报,以岭药业,开发支出,yes,（2）无形资产的减值测试情况,,,negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:本期增加,本期减少,期初余额,期末余额;negative:流动资产,非流动资产;table"
+002603_以岭药业_2023年报,以岭药业,管理层讨论,yes,（四）研发投入情况,,,page_unavailable,keyword:研发投入情况;positive:研发投入金额;table;heading
+002603_以岭药业_2023年报,以岭药业,无形资产附注,yes,17、无形资产,,,page_unavailable,"keyword:无形资产;positive:开发支出转入,内部研发,本期增加,本期减少,减值准备;table;heading"
+002821_凯莱英_2021年报,凯莱英,会计政策,yes,13、长期股权投资,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,内部研究开发,开发支出;table"
+002821_凯莱英_2021年报,凯莱英,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002821_凯莱英_2021年报,凯莱英,开发支出,yes,（五）完成境外上市外资股（H股）发行上市工作,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+002821_凯莱英_2021年报,凯莱英,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002821_凯莱英_2021年报,凯莱英,无形资产附注,yes,14、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading;note"
+002821_凯莱英_2022年报,凯莱英,会计政策,yes,2、母公司资产负债表,,,page_unavailable,keyword:无形资产;positive:开发支出;table
+002821_凯莱英_2022年报,凯莱英,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002821_凯莱英_2022年报,凯莱英,开发支出,yes,4、生物大分子,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+002821_凯莱英_2022年报,凯莱英,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002821_凯莱英_2022年报,凯莱英,无形资产附注,yes,14、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002821_凯莱英_2023年报,凯莱英,会计政策,yes,五、重要会计政策及会计估计,,,page_unavailable,keyword:重要会计政策及会计估计;positive:资本化条件;table;heading
+002821_凯莱英_2023年报,凯莱英,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002821_凯莱英_2023年报,凯莱英,开发支出,yes,5、现金流,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+002821_凯莱英_2023年报,凯莱英,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002821_凯莱英_2023年报,凯莱英,无形资产附注,yes,16、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002916_深南电路_2021年报,深南电路,会计政策,yes,22、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading;note"
+002916_深南电路_2021年报,深南电路,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002916_深南电路_2021年报,深南电路,开发支出,yes,5、研发实力不断提升，助力业务拓展,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+002916_深南电路_2021年报,深南电路,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+002916_深南电路_2021年报,深南电路,无形资产附注,yes,17、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002916_深南电路_2022年报,深南电路,会计政策,yes,22、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading;note"
+002916_深南电路_2022年报,深南电路,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading;note"
+002916_深南电路_2022年报,深南电路,开发支出,yes,5、研发创新能力稳步提升，关键产品技术实现突破,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+002916_深南电路_2022年报,深南电路,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+002916_深南电路_2022年报,深南电路,无形资产附注,yes,17、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002916_深南电路_2023年报,深南电路,会计政策,yes,22、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading;note"
+002916_深南电路_2023年报,深南电路,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading;note"
+002916_深南电路_2023年报,深南电路,开发支出,yes,（5）研发创新能力稳步提升，关键产品技术实现突破,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+002916_深南电路_2023年报,深南电路,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+002916_深南电路_2023年报,深南电路,无形资产附注,yes,18、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002938_鹏鼎控股_2021年报,鹏鼎控股,会计政策,yes,16、在建工程,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;note"
+002938_鹏鼎控股_2021年报,鹏鼎控股,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002938_鹏鼎控股_2021年报,鹏鼎控股,开发支出,yes,3、合并利润表,,,low_score(8);negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:期初余额,期末余额;negative:流动资产,非流动资产,资产总计;table"
+002938_鹏鼎控股_2021年报,鹏鼎控股,管理层讨论,yes,第三节管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+002938_鹏鼎控股_2021年报,鹏鼎控股,无形资产附注,yes,（3）本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002938_鹏鼎控股_2022年报,鹏鼎控股,会计政策,yes,17、在建工程,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;note"
+002938_鹏鼎控股_2022年报,鹏鼎控股,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002938_鹏鼎控股_2022年报,鹏鼎控股,开发支出,yes,3、合并利润表,,,low_score(8);negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:期初余额,期末余额;negative:流动资产,非流动资产,资产总计;table"
+002938_鹏鼎控股_2022年报,鹏鼎控股,管理层讨论,yes,第三节 管理层讨论与分析,,,low_score(22);negative_keyword_hit;no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;negative:董事长;table;heading
+002938_鹏鼎控股_2022年报,鹏鼎控股,无形资产附注,yes,（3） 本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+002938_鹏鼎控股_2023年报,鹏鼎控股,会计政策,yes,17、固定资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,资本化条件,开发支出;table;note"
+002938_鹏鼎控股_2023年报,鹏鼎控股,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入资本化的金额,资本化研发投入占研发投入的比例,研发投入占营业收入比例;table;heading"
+002938_鹏鼎控股_2023年报,鹏鼎控股,开发支出,yes,3、合并利润表,,,low_score(16);negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:期初余额,期末余额;negative:流动资产,非流动资产,资产总计;table;note"
+002938_鹏鼎控股_2023年报,鹏鼎控股,管理层讨论,yes,第三节 管理层讨论与分析,,,low_score(22);negative_keyword_hit;no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;negative:董事长;table;heading
+002938_鹏鼎控股_2023年报,鹏鼎控股,无形资产附注,yes,15、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+300015_爱尔眼科_2021年报,爱尔眼科,会计政策,yes,27、生物资产,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;note"
+300015_爱尔眼科_2021年报,爱尔眼科,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入占营业收入比例;table;heading"
+300015_爱尔眼科_2021年报,爱尔眼科,开发支出,yes,4、研发投入,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+300015_爱尔眼科_2021年报,爱尔眼科,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+300015_爱尔眼科_2021年报,爱尔眼科,无形资产附注,yes,（3）本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+300015_爱尔眼科_2022年报,爱尔眼科,会计政策,yes,27、生物资产,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;note"
+300015_爱尔眼科_2022年报,爱尔眼科,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入占营业收入比例;table;heading"
+300015_爱尔眼科_2022年报,爱尔眼科,开发支出,yes,5、加大新技术的临床应用，满足患者多元化需求,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+300015_爱尔眼科_2022年报,爱尔眼科,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+300015_爱尔眼科_2022年报,爱尔眼科,无形资产附注,yes,（3）本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+300015_爱尔眼科_2023年报,爱尔眼科,会计政策,yes,24、固定资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,内部研究开发,资本化条件;table"
+300015_爱尔眼科_2023年报,爱尔眼科,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入占营业收入比例;table;heading"
+300015_爱尔眼科_2023年报,爱尔眼科,开发支出,yes,5、现金流,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+300015_爱尔眼科_2023年报,爱尔眼科,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+300015_爱尔眼科_2023年报,爱尔眼科,无形资产附注,yes,（3）本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+300122_智飞生物_2021年报,智飞生物,会计政策,yes,18、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出"
+300122_智飞生物_2021年报,智飞生物,研发费用,yes,（四）公司经营情况概述,,,page_unavailable,keyword:研发投入;positive:研发投入金额;table
+300122_智飞生物_2021年报,智飞生物,开发支出,yes,4、研发投入,,,page_unavailable,keyword:研发项目;positive:本期减少;table
+300122_智飞生物_2021年报,智飞生物,管理层讨论,yes,第三节 管理层讨论与分析,,,page_unavailable,keyword:管理层讨论与分析;positive:研发投入金额;table;heading
+300122_智飞生物_2021年报,智飞生物,无形资产附注,yes,12、无形资产,,,page_unavailable,"keyword:无形资产;positive:开发支出转入,内部研发,本期增加,本期减少,减值准备;table;heading"
+300122_智飞生物_2022年报,智飞生物,会计政策,yes,18、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出"
+300122_智飞生物_2022年报,智飞生物,研发费用,yes,1、潜心研发，加速产品创新,,,page_unavailable,keyword:研发投入;positive:研发投入金额;table
+300122_智飞生物_2022年报,智飞生物,开发支出,yes,1、产品研发不达预期的风险,,,no_positive_keyword;page_unavailable,keyword:在研项目;table
+300122_智飞生物_2022年报,智飞生物,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+300122_智飞生物_2022年报,智飞生物,无形资产附注,yes,12、无形资产,,,page_unavailable,"keyword:无形资产;positive:开发支出转入,内部研发,本期增加,本期减少,减值准备;table;heading"
+300122_智飞生物_2023年报,智飞生物,会计政策,yes,18、在建工程,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,资本化条件,开发支出;note"
+300122_智飞生物_2023年报,智飞生物,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入占营业收入比例;table;heading"
+300122_智飞生物_2023年报,智飞生物,开发支出,yes,（2） 商誉所在资产组或资产组组合的相关信息,,,negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:本期增加,期初余额,期末余额;negative:流动资产,非流动资产;table"
+300122_智飞生物_2023年报,智飞生物,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+300122_智飞生物_2023年报,智飞生物,无形资产附注,yes,13、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+300136_信维通信_2021年报,信维通信,会计政策,yes,2.借款费用资本化期间,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+300136_信维通信_2021年报,信维通信,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入占营业收入比例;table;heading"
+300136_信维通信_2021年报,信维通信,开发支出,yes,（2）内部研究开发支出会计政策,,,negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:确认为无形资产,转入当期损益;negative:资产负债表;table;heading;balance_sheet_penalty"
+300136_信维通信_2021年报,信维通信,管理层讨论,yes,目录,,,low_score(-6);negative_keyword_hit;no_positive_keyword;page_unavailable,"keyword:管理层讨论与分析;negative:公司简介,联系方式;table"
+300136_信维通信_2021年报,信维通信,无形资产附注,yes,26、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+300136_信维通信_2022年报,信维通信,会计政策,yes,2.借款费用资本化期间,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+300136_信维通信_2022年报,信维通信,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入占营业收入比例;table;heading"
+300136_信维通信_2022年报,信维通信,开发支出,yes,（2） 内部研究开发支出会计政策,,,negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:确认为无形资产,转入当期损益;negative:资产负债表;table;heading;balance_sheet_penalty"
+300136_信维通信_2022年报,信维通信,管理层讨论,yes,目 录,,,low_score(-6);negative_keyword_hit;no_positive_keyword;page_unavailable,"keyword:管理层讨论与分析;negative:公司简介,联系方式;table"
+300136_信维通信_2022年报,信维通信,无形资产附注,yes,（3） 本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+300136_信维通信_2023年报,信维通信,会计政策,yes,26、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件;table;heading"
+300136_信维通信_2023年报,信维通信,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入占营业收入比例;table;heading"
+300136_信维通信_2023年报,信维通信,开发支出,yes,3、合并利润表,,,low_score(8);negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:期初余额,期末余额;negative:流动资产,非流动资产,资产总计;table"
+300136_信维通信_2023年报,信维通信,管理层讨论,yes,目录,,,low_score(-6);negative_keyword_hit;no_positive_keyword;page_unavailable,"keyword:管理层讨论与分析;negative:公司简介,联系方式;table"
+300136_信维通信_2023年报,信维通信,无形资产附注,yes,（3） 本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+300142_沃森生物_2021年报,沃森生物,会计政策,yes,26、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+300142_沃森生物_2021年报,沃森生物,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入占营业收入比例;table;heading"
+300142_沃森生物_2021年报,沃森生物,开发支出,yes,5、现金流,,,page_unavailable,keyword:研发项目;positive:期末余额;table
+300142_沃森生物_2021年报,沃森生物,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+300142_沃森生物_2021年报,沃森生物,无形资产附注,yes,（3）本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+300142_沃森生物_2022年报,沃森生物,会计政策,yes,26、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+300142_沃森生物_2022年报,沃森生物,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入占营业收入比例;table;heading"
+300142_沃森生物_2022年报,沃森生物,开发支出,yes,（2） 未办妥产权证书的土地使用权情况,,,page_unavailable,"keyword:开发支出;positive:本期增加,本期减少,期初余额,期末余额,内部开发支出;table;heading"
+300142_沃森生物_2022年报,沃森生物,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+300142_沃森生物_2022年报,沃森生物,无形资产附注,yes,26、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+300142_沃森生物_2023年报,沃森生物,会计政策,yes,26、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+300142_沃森生物_2023年报,沃森生物,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入占营业收入比例;table;heading"
+300142_沃森生物_2023年报,沃森生物,开发支出,yes,5、现金流,,,page_unavailable,keyword:研发项目;positive:期末余额;table
+300142_沃森生物_2023年报,沃森生物,管理层讨论,yes,目录,,,low_score(-6);negative_keyword_hit;no_positive_keyword;page_unavailable,"keyword:管理层讨论与分析;negative:公司简介,联系方式;table"
+300142_沃森生物_2023年报,沃森生物,无形资产附注,yes,26、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+300347_泰格医药_2021年报,泰格医药,会计政策,yes,18、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+300347_泰格医药_2021年报,泰格医药,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入占营业收入比例;table;heading"
+300347_泰格医药_2021年报,泰格医药,开发支出,yes,二、报告期内公司从事的主要业务,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+300347_泰格医药_2021年报,泰格医药,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+300347_泰格医药_2021年报,泰格医药,无形资产附注,yes,16、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+300347_泰格医药_2022年报,泰格医药,会计政策,yes,18、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+300347_泰格医药_2022年报,泰格医药,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入占营业收入比例;table;heading"
+300347_泰格医药_2022年报,泰格医药,开发支出,yes,4、广泛、优质且忠诚的客户基础,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+300347_泰格医药_2022年报,泰格医药,管理层讨论,yes,第三节管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+300347_泰格医药_2022年报,泰格医药,无形资产附注,yes,18、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+300347_泰格医药_2023年报,泰格医药,会计政策,yes,18、借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+300347_泰格医药_2023年报,泰格医药,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入占营业收入比例;table;heading"
+300347_泰格医药_2023年报,泰格医药,开发支出,yes,（2）临床试验相关服务及实验室服务,,,no_positive_keyword;page_unavailable,keyword:在研项目;table
+300347_泰格医药_2023年报,泰格医药,管理层讨论,yes,第三节管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+300347_泰格医药_2023年报,泰格医药,无形资产附注,yes,19、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+300454_深信服_2021年报,深信服,会计政策,yes,18、在建工程,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;note"
+300454_深信服_2021年报,深信服,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入占营业收入比例;table;heading"
+300454_深信服_2021年报,深信服,开发支出,yes,3.生产模式,,,low_score(26);no_positive_keyword;page_unavailable,keyword:研发项目
+300454_深信服_2021年报,深信服,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+300454_深信服_2021年报,深信服,无形资产附注,yes,（1）无形资产情况,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+300454_深信服_2022年报,深信服,会计政策,yes,18、在建工程,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;note"
+300454_深信服_2022年报,深信服,研发费用,yes,（四）研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入占营业收入比例;table;heading"
+300454_深信服_2022年报,深信服,开发支出,yes,3、生产模式,,,low_score(26);no_positive_keyword;page_unavailable,keyword:研发项目
+300454_深信服_2022年报,深信服,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+300454_深信服_2022年报,深信服,无形资产附注,yes,17、无形资产,,,page_unavailable,"keyword:无形资产;positive:本期增加,本期减少,减值准备,累计摊销,期末余额;table;heading"
+300454_深信服_2023年报,深信服,会计政策,yes,五、重要会计政策及会计估计,,,page_unavailable,keyword:重要会计政策及会计估计;positive:资本化条件;table;heading
+300454_深信服_2023年报,深信服,研发费用,yes,公司研发人员构成发生重大变化的原因及影响,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入占营业收入比例;table"
+300454_深信服_2023年报,深信服,开发支出,yes,3、生产模式,,,low_score(26);no_positive_keyword;page_unavailable,keyword:研发项目
+300454_深信服_2023年报,深信服,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+300454_深信服_2023年报,深信服,无形资产附注,yes,17、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+300759_康龙化成_2021年报,康龙化成,会计政策,yes,18、生物资产,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table"
+300759_康龙化成_2021年报,康龙化成,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入占营业收入比例;table;heading"
+300759_康龙化成_2021年报,康龙化成,开发支出,yes,2、CMC（小分子CDMO）服务,,,low_score(26);no_positive_keyword;page_unavailable,keyword:研发项目
+300759_康龙化成_2021年报,康龙化成,管理层讨论,yes,（7）公司报告期内业务、产品或服务发生重大变化或调整有关情况,,,page_unavailable,"keyword:管理层讨论与分析;positive:研发投入金额,研发人员数量,资本化的金额;table"
+300759_康龙化成_2021年报,康龙化成,无形资产附注,yes,16、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading;note"
+300759_康龙化成_2022年报,康龙化成,会计政策,yes,17、生物资产,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table"
+300759_康龙化成_2022年报,康龙化成,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入占营业收入比例;table;heading"
+300759_康龙化成_2022年报,康龙化成,开发支出,yes,（1）贯穿整个新药研发过程和商业化阶段的全面化学技术平台,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+300759_康龙化成_2022年报,康龙化成,管理层讨论,yes,（7） 公司报告期内业务、产品或服务发生重大变化或调整有关情况,,,page_unavailable,"keyword:管理层讨论与分析;positive:研发投入金额,研发人员数量,资本化的金额;table"
+300759_康龙化成_2022年报,康龙化成,无形资产附注,yes,17、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading;note"
+300759_康龙化成_2023年报,康龙化成,会计政策,yes,15、在建工程,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table"
+300759_康龙化成_2023年报,康龙化成,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入占营业收入比例;table;heading"
+300759_康龙化成_2023年报,康龙化成,开发支出,yes,（2）贯穿新药研发整个阶段的药物代谢动力学研发服务平台,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+300759_康龙化成_2023年报,康龙化成,管理层讨论,yes,（7） 公司报告期内业务、产品或服务发生重大变化或调整有关情况,,,page_unavailable,"keyword:管理层讨论与分析;positive:研发投入金额,研发人员数量,资本化的金额;table"
+300759_康龙化成_2023年报,康龙化成,无形资产附注,yes,18、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading;note"
+300760_迈瑞医疗_2021年报,迈瑞医疗,会计政策,yes,17、固定资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;note"
+300760_迈瑞医疗_2021年报,迈瑞医疗,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入占营业收入比例;table;heading"
+300760_迈瑞医疗_2021年报,迈瑞医疗,开发支出,yes,17、开发支出,,,negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:本期增加,本期减少,期初余额,期末余额,内部开发支出;negative:资产负债表;table;heading;note;balance_sheet_penalty"
+300760_迈瑞医疗_2021年报,迈瑞医疗,管理层讨论,yes,目 录,,,low_score(-6);negative_keyword_hit;no_positive_keyword;page_unavailable,"keyword:管理层讨论与分析;negative:公司简介,联系方式;table"
+300760_迈瑞医疗_2021年报,迈瑞医疗,无形资产附注,yes,16、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading;note"
+300760_迈瑞医疗_2022年报,迈瑞医疗,会计政策,yes,19、在建工程,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;note"
+300760_迈瑞医疗_2022年报,迈瑞医疗,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入占营业收入比例;table;heading"
+300760_迈瑞医疗_2022年报,迈瑞医疗,开发支出,yes,17、开发支出,,,negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:本期增加,本期减少,期初余额,期末余额,内部开发支出;negative:资产负债表;table;heading;balance_sheet_penalty"
+300760_迈瑞医疗_2022年报,迈瑞医疗,管理层讨论,yes,目 录,,,low_score(-6);negative_keyword_hit;no_positive_keyword;page_unavailable,"keyword:管理层讨论与分析;negative:公司简介,联系方式;table"
+300760_迈瑞医疗_2022年报,迈瑞医疗,无形资产附注,yes,12、投资性房地产,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;note"
+300760_迈瑞医疗_2023年报,迈瑞医疗,会计政策,yes,19、固定资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,资本化条件,达到预定用途,开发支出;table;note"
+300760_迈瑞医疗_2023年报,迈瑞医疗,研发费用,yes,4、研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入金额,资本化的金额,研发投入占营业收入比例;table;heading"
+300760_迈瑞医疗_2023年报,迈瑞医疗,开发支出,yes,（b）开发支出资本化,,,no_positive_keyword;page_unavailable,keyword:开发支出;table;heading;note
+300760_迈瑞医疗_2023年报,迈瑞医疗,管理层讨论,yes,目 录,,,low_score(-6);negative_keyword_hit;no_positive_keyword;page_unavailable,"keyword:管理层讨论与分析;negative:公司简介,联系方式;table"
+300760_迈瑞医疗_2023年报,迈瑞医疗,无形资产附注,yes,12、其他非流动金融资产,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;note"
+600161_天坛生物_2021年报,天坛生物,会计政策,yes,√适用 □不适用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;heading"
+600161_天坛生物_2021年报,天坛生物,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+600161_天坛生物_2021年报,天坛生物,开发支出,yes,(2).主要研发项目基本情况,,,no_positive_keyword;page_unavailable,keyword:研发项目;table;heading;note
+600161_天坛生物_2021年报,天坛生物,管理层讨论,yes,4. 研发投入,,,page_unavailable,keyword:研发投入情况;positive:研发人员数量;table;heading
+600161_天坛生物_2021年报,天坛生物,无形资产附注,yes,(3).本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+600161_天坛生物_2022年报,天坛生物,会计政策,yes,√适用 □不适用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;heading"
+600161_天坛生物_2022年报,天坛生物,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+600161_天坛生物_2022年报,天坛生物,开发支出,yes,(2).主要研发项目基本情况,,,no_positive_keyword;page_unavailable,keyword:研发项目;table;heading;note
+600161_天坛生物_2022年报,天坛生物,管理层讨论,yes,4. 研发投入,,,page_unavailable,keyword:研发投入情况;positive:研发人员数量;table;heading
+600161_天坛生物_2022年报,天坛生物,无形资产附注,yes,26、 无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+600161_天坛生物_2023年报,天坛生物,会计政策,yes,√适用 □不适用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件;table;heading"
+600161_天坛生物_2023年报,天坛生物,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+600161_天坛生物_2023年报,天坛生物,开发支出,yes,(2).主要研发项目基本情况,,,no_positive_keyword;page_unavailable,keyword:研发项目;table;heading;note
+600161_天坛生物_2023年报,天坛生物,管理层讨论,yes,4. 研发投入,,,page_unavailable,keyword:研发投入情况;positive:研发人员数量;table;heading
+600161_天坛生物_2023年报,天坛生物,无形资产附注,yes,(4).在建工程的减值测试情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table"
+600183_生益科技_2021年报,生益科技,会计政策,yes,3. 借款费用资本化金额的计算方法,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;heading"
+600183_生益科技_2021年报,生益科技,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+600183_生益科技_2021年报,生益科技,开发支出,yes,合并现金流量表,,,low_score(16);negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:期初余额,期末余额;negative:流动资产,非流动资产,资产总计;table;note"
+600183_生益科技_2021年报,生益科技,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+600183_生益科技_2021年报,生益科技,无形资产附注,yes,(3).本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+600183_生益科技_2022年报,生益科技,会计政策,yes,26. 生物资产,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途"
+600183_生益科技_2022年报,生益科技,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+600183_生益科技_2022年报,生益科技,开发支出,yes,合并利润表,,,low_score(16);negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:期初余额,期末余额;negative:流动资产,非流动资产,资产总计;table;note"
+600183_生益科技_2022年报,生益科技,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+600183_生益科技_2022年报,生益科技,无形资产附注,yes,(3).本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+600183_生益科技_2023年报,生益科技,会计政策,yes,√适用 □不适用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,资本化条件,达到预定用途,开发支出;table;heading"
+600183_生益科技_2023年报,生益科技,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+600183_生益科技_2023年报,生益科技,开发支出,yes,合并利润表,,,low_score(16);negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:期初余额,期末余额;negative:流动资产,非流动资产,资产总计;table;note"
+600183_生益科技_2023年报,生益科技,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+600183_生益科技_2023年报,生益科技,无形资产附注,yes,26、 无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+600196_复星医药_2021年报,复星医药,会计政策,yes,√适用 □不适用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,开发支出;table"
+600196_复星医药_2021年报,复星医药,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+600196_复星医药_2021年报,复星医药,开发支出,yes,(2).主要研发项目基本情况,,,no_positive_keyword;page_unavailable,keyword:研发项目;table;heading
+600196_复星医药_2021年报,复星医药,管理层讨论,yes,4. 研发投入,,,page_unavailable,keyword:研发投入情况;positive:研发人员数量;table;heading
+600196_复星医药_2021年报,复星医药,无形资产附注,yes,五、 合并财务报表主要项目注释（续）,,,page_unavailable,"keyword:无形资产;positive:开发支出转入,内部研发,减值准备,累计摊销;table;heading"
+600196_复星医药_2022年报,复星医药,会计政策,yes,三、 重要会计政策及会计估计（续）,,,page_unavailable,"keyword:重要会计政策及会计估计;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;heading"
+600196_复星医药_2022年报,复星医药,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+600196_复星医药_2022年报,复星医药,开发支出,yes,(2).主要研发项目基本情况,,,no_positive_keyword;page_unavailable,keyword:研发项目;table;heading
+600196_复星医药_2022年报,复星医药,管理层讨论,yes,4. 研发投入,,,page_unavailable,keyword:研发投入情况;positive:研发人员数量;table;heading
+600196_复星医药_2022年报,复星医药,无形资产附注,yes,五、 合并财务报表主要项目注释（续）,,,page_unavailable,"keyword:无形资产;positive:开发支出转入,内部研发,减值准备,累计摊销;table;heading"
+600196_复星医药_2023年报,复星医药,会计政策,yes,三、 重要会计政策及会计估计（续）,,,page_unavailable,"keyword:重要会计政策及会计估计;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;heading"
+600196_复星医药_2023年报,复星医药,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+600196_复星医药_2023年报,复星医药,开发支出,yes,(2).主要研发项目基本情况,,,no_positive_keyword;page_unavailable,keyword:研发项目;table;heading
+600196_复星医药_2023年报,复星医药,管理层讨论,yes,4. 研发投入,,,page_unavailable,keyword:研发投入情况;positive:研发人员数量;table;heading
+600196_复星医药_2023年报,复星医药,无形资产附注,yes,五 、 合并财务报表主要项 目注释 （续）,,,page_unavailable,"keyword:无形资产;positive:开发支出转入,内部研发,减值准备,累计摊销;table;heading;note"
+600276_恒瑞医药_2021年报,恒瑞医药,会计政策,yes,29. 无形资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+600276_恒瑞医药_2021年报,恒瑞医药,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading;note"
+600276_恒瑞医药_2021年报,恒瑞医药,开发支出,yes,45. 其他,,,page_unavailable,"keyword:开发支出;positive:期初余额,期末余额;table;note"
+600276_恒瑞医药_2021年报,恒瑞医药,管理层讨论,yes,4. 研发投入,,,page_unavailable,keyword:研发投入情况;positive:研发人员数量;table;note
+600276_恒瑞医药_2021年报,恒瑞医药,无形资产附注,yes,(3).本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+600276_恒瑞医药_2022年报,恒瑞医药,会计政策,yes,29. 无形资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+600276_恒瑞医药_2022年报,恒瑞医药,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading;note"
+600276_恒瑞医药_2022年报,恒瑞医药,开发支出,yes,(2).主要研发项目基本情况,,,no_positive_keyword;page_unavailable,keyword:研发项目;table;heading
+600276_恒瑞医药_2022年报,恒瑞医药,管理层讨论,yes,4. 研发投入,,,page_unavailable,keyword:研发投入情况;positive:研发人员数量;table;heading;note
+600276_恒瑞医药_2022年报,恒瑞医药,无形资产附注,yes,(3).本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+600276_恒瑞医药_2023年报,恒瑞医药,会计政策,yes,25. 无形资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+600276_恒瑞医药_2023年报,恒瑞医药,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading;note"
+600276_恒瑞医药_2023年报,恒瑞医药,开发支出,yes,(3).与筹资活动有关的现金,,,page_unavailable,"keyword:开发支出;positive:本期增加,本期减少,期初余额,期末余额;table"
+600276_恒瑞医药_2023年报,恒瑞医药,管理层讨论,yes,4. 研发投入,,,page_unavailable,keyword:研发投入情况;positive:研发人员数量;table;note
+600276_恒瑞医药_2023年报,恒瑞医药,无形资产附注,yes,26、 无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+600436_片仔癀_2021年报,片仔癀,会计政策,yes,1.生产性生物资产,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table"
+600436_片仔癀_2021年报,片仔癀,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入,研发投入占营业收入比例;table;heading"
+600436_片仔癀_2021年报,片仔癀,开发支出,yes,(2). 主要研发项目基本情况,,,no_positive_keyword;page_unavailable,keyword:研发项目;table;heading
+600436_片仔癀_2021年报,片仔癀,管理层讨论,yes,4. 研发投入,,,page_unavailable,keyword:研发投入情况;positive:研发人员数量;table;heading
+600436_片仔癀_2021年报,片仔癀,无形资产附注,yes,26、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+600436_片仔癀_2022年报,片仔癀,会计政策,yes,1.生产性生物资产,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table"
+600436_片仔癀_2022年报,片仔癀,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入,研发投入占营业收入比例;table;heading"
+600436_片仔癀_2022年报,片仔癀,开发支出,yes,(2). 主要研发项目基本情况,,,no_positive_keyword;page_unavailable,keyword:研发项目;table;heading
+600436_片仔癀_2022年报,片仔癀,管理层讨论,yes,4. 研发投入,,,page_unavailable,keyword:研发投入情况;positive:研发人员数量;table;heading
+600436_片仔癀_2022年报,片仔癀,无形资产附注,yes,(3). 本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+600436_片仔癀_2023年报,片仔癀,会计政策,yes,3.借款费用资本化金额的计算方法,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,资本化条件,达到预定用途,开发支出;table;heading"
+600436_片仔癀_2023年报,片仔癀,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入,研发投入占营业收入比例;table;heading"
+600436_片仔癀_2023年报,片仔癀,开发支出,yes,(2). 主要研发项目基本情况,,,no_positive_keyword;page_unavailable,keyword:研发项目;table;heading
+600436_片仔癀_2023年报,片仔癀,管理层讨论,yes,4. 研发投入,,,page_unavailable,keyword:研发投入情况;positive:研发人员数量;table;heading
+600436_片仔癀_2023年报,片仔癀,无形资产附注,yes,26、无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+600570_恒生电子_2021年报,恒生电子,会计政策,yes,（1）借款费用资本化的确认原则,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;heading"
+600570_恒生电子_2021年报,恒生电子,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+600570_恒生电子_2021年报,恒生电子,开发支出,yes,(2).内部研究开发支出会计政策,,,negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:确认为无形资产,转入当期损益;negative:资产负债表;table;heading;balance_sheet_penalty"
+600570_恒生电子_2021年报,恒生电子,管理层讨论,yes,4. 研发投入,,,page_unavailable,keyword:研发投入情况;positive:研发人员数量;table;heading
+600570_恒生电子_2021年报,恒生电子,无形资产附注,yes,(3).本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading;note"
+600570_恒生电子_2022年报,恒生电子,会计政策,yes,26. 生物资产,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table"
+600570_恒生电子_2022年报,恒生电子,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+600570_恒生电子_2022年报,恒生电子,开发支出,yes,(2).内部研究开发支出会计政策,,,negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:确认为无形资产,转入当期损益;negative:资产负债表;table;heading;balance_sheet_penalty"
+600570_恒生电子_2022年报,恒生电子,管理层讨论,yes,第三节 管理层讨论与分析,,,page_unavailable,keyword:管理层讨论与分析;positive:研发人员数量;heading
+600570_恒生电子_2022年报,恒生电子,无形资产附注,yes,(3).本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:本期增加,本期减少,减值准备,累计摊销,期末余额;table;heading;note"
+600570_恒生电子_2023年报,恒生电子,会计政策,yes,√适用 □不适用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件;table;heading"
+600570_恒生电子_2023年报,恒生电子,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+600570_恒生电子_2023年报,恒生电子,开发支出,yes,合并利润表,,,low_score(16);negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:期初余额,期末余额;negative:流动资产,非流动资产,资产总计;table;note"
+600570_恒生电子_2023年报,恒生电子,管理层讨论,yes,四、报告期内核心竞争力分析,,,no_positive_keyword;page_unavailable,keyword:经营情况讨论与分析;table
+600570_恒生电子_2023年报,恒生电子,无形资产附注,yes,(3).本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+600588_用友网络_2021年报,用友网络,会计政策,yes,26. 生物资产,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table"
+600588_用友网络_2021年报,用友网络,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+600588_用友网络_2021年报,用友网络,开发支出,yes,合并利润表,,,low_score(16);negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:期初余额,期末余额;negative:流动资产,非流动资产,资产总计;table;note"
+600588_用友网络_2021年报,用友网络,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+600588_用友网络_2021年报,用友网络,无形资产附注,yes,(3).本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+600588_用友网络_2022年报,用友网络,会计政策,yes,25. 借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table"
+600588_用友网络_2022年报,用友网络,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+600588_用友网络_2022年报,用友网络,开发支出,yes,开发支出,,,no_positive_keyword;page_unavailable,keyword:开发支出;table;heading
+600588_用友网络_2022年报,用友网络,管理层讨论,yes,第三节 管理层讨论与分析,,,page_unavailable,keyword:管理层讨论与分析;positive:研发人员数量;heading
+600588_用友网络_2022年报,用友网络,无形资产附注,yes,(3).本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+600588_用友网络_2023年报,用友网络,会计政策,yes,22. 借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;note"
+600588_用友网络_2023年报,用友网络,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+600588_用友网络_2023年报,用友网络,开发支出,yes,开发支出,,,low_score(19);negative_keyword_hit;no_positive_keyword;page_unavailable,keyword:开发支出;negative:资产负债表;table;heading;note;balance_sheet_penalty
+600588_用友网络_2023年报,用友网络,管理层讨论,yes,十三、 报告期内主要经营情况,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table
+600588_用友网络_2023年报,用友网络,无形资产附注,yes,工程物资,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;note"
+600703_三安光电_2021年报,三安光电,会计政策,yes,25. 借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;note"
+600703_三安光电_2021年报,三安光电,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+600703_三安光电_2021年报,三安光电,开发支出,yes,（8）开发支出,,,negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:期初余额,期末余额;negative:资产负债表;table;heading;note;balance_sheet_penalty"
+600703_三安光电_2021年报,三安光电,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+600703_三安光电_2021年报,三安光电,无形资产附注,yes,26、 无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+600703_三安光电_2022年报,三安光电,会计政策,yes,√适用 □不适用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;note"
+600703_三安光电_2022年报,三安光电,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+600703_三安光电_2022年报,三安光电,开发支出,yes,(2).内部研究开发支出会计政策,,,low_score(22);negative_keyword_hit;page_unavailable,keyword:开发支出;positive:确认为无形资产;negative:资产负债表;heading;note;balance_sheet_penalty
+600703_三安光电_2022年报,三安光电,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+600703_三安光电_2022年报,三安光电,无形资产附注,yes,(3).本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+600703_三安光电_2023年报,三安光电,会计政策,yes,24. 生物资产,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;note"
+600703_三安光电_2023年报,三安光电,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+600703_三安光电_2023年报,三安光电,开发支出,yes,(四)可能面对的风险,,,low_score(26);no_positive_keyword;page_unavailable,keyword:研发项目
+600703_三安光电_2023年报,三安光电,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+600703_三安光电_2023年报,三安光电,无形资产附注,yes,26、 无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+600763_通策医疗_2021年报,通策医疗,会计政策,yes,2．借款费用资本化期间,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+600763_通策医疗_2021年报,通策医疗,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+600763_通策医疗_2021年报,通策医疗,开发支出,yes,(2).内部研究开发支出会计政策,,,low_score(29);negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:确认为无形资产,转入当期损益;negative:资产负债表;heading;balance_sheet_penalty"
+600763_通策医疗_2021年报,通策医疗,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+600763_通策医疗_2021年报,通策医疗,无形资产附注,yes,26、 无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+600763_通策医疗_2022年报,通策医疗,会计政策,yes,1．借款费用资本化的确认原则,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+600763_通策医疗_2022年报,通策医疗,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+600763_通策医疗_2022年报,通策医疗,开发支出,yes,(2).内部研究开发支出会计政策,,,low_score(29);negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:确认为无形资产,转入当期损益;negative:资产负债表;heading;balance_sheet_penalty"
+600763_通策医疗_2022年报,通策医疗,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+600763_通策医疗_2022年报,通策医疗,无形资产附注,yes,(3).本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+600763_通策医疗_2023年报,通策医疗,会计政策,yes,1．借款费用资本化的确认原则,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+600763_通策医疗_2023年报,通策医疗,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+600763_通策医疗_2023年报,通策医疗,开发支出,yes,合并现金流量表,,,low_score(16);negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:期初余额,期末余额;negative:流动资产,非流动资产,资产总计;table;note"
+600763_通策医疗_2023年报,通策医疗,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+600763_通策医疗_2023年报,通策医疗,无形资产附注,yes,25、 使用权资产,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table"
+600845_宝信软件_2021年报,宝信软件,会计政策,yes,√适用 □不适用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;heading"
+600845_宝信软件_2021年报,宝信软件,研发费用,yes,2. 收入和成本分析,,,no_positive_keyword;page_unavailable,keyword:研发费用;table;note
+600845_宝信软件_2021年报,宝信软件,开发支出,yes,(2).内部研究开发支出会计政策,,,negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:确认为无形资产,转入当期损益;negative:资产负债表;table;heading;balance_sheet_penalty"
+600845_宝信软件_2021年报,宝信软件,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+600845_宝信软件_2021年报,宝信软件,无形资产附注,yes,(3).本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading;note"
+600845_宝信软件_2022年报,宝信软件,会计政策,yes,√适用 □不适用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;heading"
+600845_宝信软件_2022年报,宝信软件,研发费用,yes,2. 收入和成本分析,,,no_positive_keyword;page_unavailable,keyword:研发费用;table;note
+600845_宝信软件_2022年报,宝信软件,开发支出,yes,（3）开发支出,,,no_positive_keyword;page_unavailable,keyword:开发支出;table;heading
+600845_宝信软件_2022年报,宝信软件,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+600845_宝信软件_2022年报,宝信软件,无形资产附注,yes,26、 无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading;note"
+600845_宝信软件_2023年报,宝信软件,会计政策,yes,2.借款费用资本化期间,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件;table;heading"
+600845_宝信软件_2023年报,宝信软件,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+600845_宝信软件_2023年报,宝信软件,开发支出,yes,（3）开发支出,,,page_unavailable,"keyword:开发支出;positive:期初余额,期末余额;table;heading;note"
+600845_宝信软件_2023年报,宝信软件,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+600845_宝信软件_2023年报,宝信软件,无形资产附注,yes,(3).本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+601360_三六零_2021年报,三六零,会计政策,yes,29. 无形资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,内部研究开发,开发支出;table;heading;note"
+601360_三六零_2021年报,三六零,研发费用,yes,2. 收入和成本分析,,,no_positive_keyword;page_unavailable,keyword:研发费用;table;note
+601360_三六零_2021年报,三六零,开发支出,yes,合并利润表,,,low_score(16);negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:期初余额,期末余额;negative:流动资产,非流动资产,资产总计;table;note"
+601360_三六零_2021年报,三六零,管理层讨论,yes,第三节 管理层讨论与分析,,,page_unavailable,keyword:管理层讨论与分析;positive:研发人员数量;table;heading
+601360_三六零_2021年报,三六零,无形资产附注,yes,(3).本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+601360_三六零_2022年报,三六零,会计政策,yes,29. 无形资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,内部研究开发,开发支出;table;heading;note"
+601360_三六零_2022年报,三六零,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+601360_三六零_2022年报,三六零,开发支出,yes,合并利润表,,,low_score(16);negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:期初余额,期末余额;negative:流动资产,非流动资产,资产总计;table;note"
+601360_三六零_2022年报,三六零,管理层讨论,yes,(3). 重大采购合同、重大销售合同的履行情况,,,page_unavailable,keyword:经营情况讨论与分析;positive:研发人员数量;table
+601360_三六零_2022年报,三六零,无形资产附注,yes,26、 无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+601360_三六零_2023年报,三六零,会计政策,yes,26. 无形资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段;table;heading;note"
+601360_三六零_2023年报,三六零,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+601360_三六零_2023年报,三六零,开发支出,yes,合并利润表,,,low_score(16);negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:期初余额,期末余额;negative:流动资产,非流动资产,资产总计;table;note"
+601360_三六零_2023年报,三六零,管理层讨论,yes,(2). 产销量情况分析表,,,page_unavailable,keyword:经营情况讨论与分析;positive:研发人员数量;table
+601360_三六零_2023年报,三六零,无形资产附注,yes,26、 无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+603019_中科曙光_2021年报,中科曙光,会计政策,yes,（3）暂停资本化期间,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading;note"
+603019_中科曙光_2021年报,中科曙光,研发费用,yes,1.持续高研发投入，保持核心竞争优势,,,no_positive_keyword;page_unavailable,keyword:研发投入;table;heading
+603019_中科曙光_2021年报,中科曙光,开发支出,yes,2. 境外资产情况,,,low_score(28);negative_keyword_hit;page_unavailable,"keyword:开发支出;positive:期初余额,期末余额;negative:流动资产,非流动资产;table"
+603019_中科曙光_2021年报,中科曙光,管理层讨论,yes,4. 研发投入,,,page_unavailable,keyword:研发投入情况;positive:研发人员数量;table;heading
+603019_中科曙光_2021年报,中科曙光,无形资产附注,yes,(3).本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+603019_中科曙光_2022年报,中科曙光,会计政策,yes,（2）借款费用资本化期间,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading;note"
+603019_中科曙光_2022年报,中科曙光,研发费用,yes,√适用 □不适用,,,no_positive_keyword;page_unavailable,keyword:研发投入;table;heading
+603019_中科曙光_2022年报,中科曙光,开发支出,yes,2. 境外资产情况,,,no_positive_keyword;page_unavailable,keyword:开发支出;table
+603019_中科曙光_2022年报,中科曙光,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+603019_中科曙光_2022年报,中科曙光,无形资产附注,yes,(3).本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+603019_中科曙光_2023年报,中科曙光,会计政策,yes,（2）借款费用资本化期间,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+603019_中科曙光_2023年报,中科曙光,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+603019_中科曙光_2023年报,中科曙光,开发支出,yes,(3).与筹资活动有关的现金,,,page_unavailable,"keyword:开发支出;positive:本期增加,本期减少,期初余额,期末余额;table"
+603019_中科曙光_2023年报,中科曙光,管理层讨论,yes,4. 研发投入,,,page_unavailable,keyword:研发投入情况;positive:研发人员数量;table
+603019_中科曙光_2023年报,中科曙光,无形资产附注,yes,26、 无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+603160_汇顶科技_2021年报,汇顶科技,会计政策,yes,29. 无形资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+603160_汇顶科技_2021年报,汇顶科技,研发费用,yes,(2).研发人员情况表,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table"
+603160_汇顶科技_2021年报,汇顶科技,开发支出,yes,27、 开发支出,,,page_unavailable,"keyword:开发支出;positive:本期增加,本期减少,期初余额,期末余额,内部开发支出;table;heading"
+603160_汇顶科技_2021年报,汇顶科技,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+603160_汇顶科技_2021年报,汇顶科技,无形资产附注,yes,26、 无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+603160_汇顶科技_2022年报,汇顶科技,会计政策,yes,29. 无形资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+603160_汇顶科技_2022年报,汇顶科技,研发费用,yes,5. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+603160_汇顶科技_2022年报,汇顶科技,开发支出,yes,27、 开发支出,,,page_unavailable,"keyword:开发支出;positive:本期增加,本期减少,期初余额,期末余额,内部开发支出;table;heading"
+603160_汇顶科技_2022年报,汇顶科技,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+603160_汇顶科技_2022年报,汇顶科技,无形资产附注,yes,(3).本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+603160_汇顶科技_2023年报,汇顶科技,会计政策,yes,26. 无形资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading;note"
+603160_汇顶科技_2023年报,汇顶科技,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+603160_汇顶科技_2023年报,汇顶科技,开发支出,yes,2. 收入和成本分析,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+603160_汇顶科技_2023年报,汇顶科技,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+603160_汇顶科技_2023年报,汇顶科技,无形资产附注,yes,26、 无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+603259_药明康德_2021年报,药明康德,会计政策,yes,26. 生物资产,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table"
+603259_药明康德_2021年报,药明康德,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+603259_药明康德_2021年报,药明康德,开发支出,yes,三、报告期内公司从事的业务情况,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+603259_药明康德_2021年报,药明康德,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+603259_药明康德_2021年报,药明康德,无形资产附注,yes,26、 无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+603259_药明康德_2022年报,药明康德,会计政策,yes,29. 无形资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,资本化条件,达到预定用途,开发支出;table;heading"
+603259_药明康德_2022年报,药明康德,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+603259_药明康德_2022年报,药明康德,开发支出,yes,三、报告期内公司从事的业务情况,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+603259_药明康德_2022年报,药明康德,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+603259_药明康德_2022年报,药明康德,无形资产附注,yes,(3). 本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+603259_药明康德_2023年报,药明康德,会计政策,yes,√适用 □不适用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,资本化条件,达到预定用途;table"
+603259_药明康德_2023年报,药明康德,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+603259_药明康德_2023年报,药明康德,开发支出,yes,（一） 全球领先的“一体化、端到端”的新药研发服务平台,,,no_positive_keyword;page_unavailable,keyword:研发项目;table
+603259_药明康德_2023年报,药明康德,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+603259_药明康德_2023年报,药明康德,无形资产附注,yes,26、 无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading;note"
+603501_韦尔股份_2021年报,韦尔股份,会计政策,yes,25.2借款费用资本化期间,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading;note"
+603501_韦尔股份_2021年报,韦尔股份,研发费用,yes,1、研发能力优势,,,page_unavailable,keyword:研发投入;positive:研发投入金额;table
+603501_韦尔股份_2021年报,韦尔股份,开发支出,yes,27、 开发支出,,,page_unavailable,"keyword:开发支出;positive:本期增加,本期减少,期初余额,期末余额,内部开发支出;table;heading"
+603501_韦尔股份_2021年报,韦尔股份,管理层讨论,yes,第三节 管理层讨论与分析,,,page_unavailable,keyword:管理层讨论与分析;positive:研发投入金额;heading
+603501_韦尔股份_2021年报,韦尔股份,无形资产附注,yes,(3). 本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+603501_韦尔股份_2022年报,韦尔股份,会计政策,yes,25.2借款费用资本化期间,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading;note"
+603501_韦尔股份_2022年报,韦尔股份,研发费用,yes,（三）持续加大研发投入，不断创新研发机制,,,page_unavailable,keyword:研发投入;positive:研发投入金额;table;heading
+603501_韦尔股份_2022年报,韦尔股份,开发支出,yes,27、 开发支出,,,page_unavailable,"keyword:开发支出;positive:本期增加,本期减少,期初余额,期末余额,内部开发支出;table;heading"
+603501_韦尔股份_2022年报,韦尔股份,管理层讨论,yes,第三节 管理层讨论与分析,,,page_unavailable,keyword:经营情况讨论与分析;positive:研发投入金额;heading
+603501_韦尔股份_2022年报,韦尔股份,无形资产附注,yes,(3). 本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+603501_韦尔股份_2023年报,韦尔股份,会计政策,yes,23.3暂停资本化期间,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+603501_韦尔股份_2023年报,韦尔股份,研发费用,yes,1、研发能力优势,,,page_unavailable,keyword:研发投入;positive:研发投入金额;table
+603501_韦尔股份_2023年报,韦尔股份,开发支出,yes,注 1：不确定税项,,,page_unavailable,"keyword:研发项目;positive:本期增加,本期减少,期初余额,期末余额;table"
+603501_韦尔股份_2023年报,韦尔股份,管理层讨论,yes,第三节 管理层讨论与分析,,,page_unavailable,keyword:管理层讨论与分析;positive:研发投入金额;heading
+603501_韦尔股份_2023年报,韦尔股份,无形资产附注,yes,(3). 本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+603986_兆易创新_2021年报,兆易创新,会计政策,yes,25. 借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出"
+603986_兆易创新_2021年报,兆易创新,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+603986_兆易创新_2021年报,兆易创新,开发支出,yes,其他说明,,,page_unavailable,"keyword:开发支出;positive:本期增加,本期减少,期初余额,期末余额,内部开发支出;table"
+603986_兆易创新_2021年报,兆易创新,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+603986_兆易创新_2021年报,兆易创新,无形资产附注,yes,26、 无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+603986_兆易创新_2022年报,兆易创新,会计政策,yes,25. 借款费用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出"
+603986_兆易创新_2022年报,兆易创新,研发费用,yes,八、 境内外会计准则下会计数据差异,,,no_positive_keyword;page_unavailable,keyword:研发费用;table;note
+603986_兆易创新_2022年报,兆易创新,开发支出,yes,27、 开发支出,,,page_unavailable,"keyword:开发支出;positive:本期增加,本期减少,期初余额,期末余额,内部开发支出;table;heading"
+603986_兆易创新_2022年报,兆易创新,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+603986_兆易创新_2022年报,兆易创新,无形资产附注,yes,26、 无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+603986_兆易创新_2023年报,兆易创新,会计政策,yes,√适用 □不适用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table"
+603986_兆易创新_2023年报,兆易创新,研发费用,yes,4. 研发投入,,,page_unavailable,"keyword:研发投入;positive:研发投入合计,本期费用化研发投入,本期资本化研发投入;table;heading"
+603986_兆易创新_2023年报,兆易创新,开发支出,yes,√适用 □不适用,,,no_positive_keyword;page_unavailable,keyword:开发支出;table;note
+603986_兆易创新_2023年报,兆易创新,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+603986_兆易创新_2023年报,兆易创新,无形资产附注,yes,26、 无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+688036_传音控股_2021年报,传音控股,会计政策,yes,√适用 □不适用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;heading"
+688036_传音控股_2021年报,传音控股,研发费用,yes,3. 研发投入情况表,,,page_unavailable,keyword:研发投入;positive:研发投入合计;table;heading
+688036_传音控股_2021年报,传音控股,开发支出,yes,4. 在研项目情况,,,no_positive_keyword;page_unavailable,keyword:在研项目;table;heading
+688036_传音控股_2021年报,传音控股,管理层讨论,yes,3. 研发投入情况表,,,page_unavailable,keyword:研发投入情况;positive:研发人员数量;table;heading
+688036_传音控股_2021年报,传音控股,无形资产附注,yes,(3).本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading;note"
+688036_传音控股_2022年报,传音控股,会计政策,yes,3. 借款费用资本化率以及资本化金额,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table;heading;note"
+688036_传音控股_2022年报,传音控股,研发费用,yes,3. 研发投入情况表,,,page_unavailable,keyword:研发投入;positive:研发投入合计;table;heading
+688036_传音控股_2022年报,传音控股,开发支出,yes,4. 在研项目情况,,,no_positive_keyword;page_unavailable,keyword:在研项目;table;heading
+688036_传音控股_2022年报,传音控股,管理层讨论,yes,3. 研发投入情况表,,,page_unavailable,keyword:研发投入情况;positive:研发人员数量;table;heading
+688036_传音控股_2022年报,传音控股,无形资产附注,yes,(3).本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+688036_传音控股_2023年报,传音控股,会计政策,yes,3. 借款费用资本化率以及资本化金额,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件;table;heading"
+688036_传音控股_2023年报,传音控股,研发费用,yes,3. 研发投入情况表,,,page_unavailable,keyword:研发投入;positive:研发投入合计;table;heading
+688036_传音控股_2023年报,传音控股,开发支出,yes,4. 在研项目情况,,,no_positive_keyword;page_unavailable,keyword:在研项目;table;heading
+688036_传音控股_2023年报,传音控股,管理层讨论,yes,3. 研发投入情况表,,,page_unavailable,keyword:研发投入情况;positive:研发人员数量;table;heading
+688036_传音控股_2023年报,传音控股,无形资产附注,yes,26、 无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+688111_金山办公_2021年报,金山办公,会计政策,yes,29. 无形资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+688111_金山办公_2021年报,金山办公,研发费用,yes,(二) 主要财务指标,,,no_positive_keyword;page_unavailable,keyword:研发投入;table;note
+688111_金山办公_2021年报,金山办公,开发支出,yes,4. 在研项目情况,,,no_positive_keyword;page_unavailable,keyword:在研项目;table;heading
+688111_金山办公_2021年报,金山办公,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+688111_金山办公_2021年报,金山办公,无形资产附注,yes,26、 无形资产,,,page_unavailable,"keyword:无形资产;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+688111_金山办公_2022年报,金山办公,会计政策,yes,29. 无形资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+688111_金山办公_2022年报,金山办公,研发费用,yes,(二) 主要财务指标,,,no_positive_keyword;page_unavailable,keyword:研发投入;table;note
+688111_金山办公_2022年报,金山办公,开发支出,yes,4. 在研项目情况,,,no_positive_keyword;page_unavailable,keyword:在研项目;table;heading
+688111_金山办公_2022年报,金山办公,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+688111_金山办公_2022年报,金山办公,无形资产附注,yes,(3).本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+688111_金山办公_2023年报,金山办公,会计政策,yes,26. 无形资产,,,page_unavailable,"keyword:无形资产;positive:研究阶段,开发阶段,内部研究开发,资本化条件,达到预定用途;table;heading"
+688111_金山办公_2023年报,金山办公,研发费用,yes,(二) 主要财务指标,,,no_positive_keyword;page_unavailable,keyword:研发投入;table;note
+688111_金山办公_2023年报,金山办公,开发支出,yes,4. 在研项目情况,,,no_positive_keyword;page_unavailable,keyword:在研项目;table;heading
+688111_金山办公_2023年报,金山办公,管理层讨论,yes,第三节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+688111_金山办公_2023年报,金山办公,无形资产附注,yes,(2). 采用成本计量模式的生产性生物资产的减值测试情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,期末余额;table"
+688981_中芯国际_2021年报,中芯国际,会计政策,yes,√适用 □不适用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table"
+688981_中芯国际_2021年报,中芯国际,研发费用,yes,3. 研发投入情况表,,,page_unavailable,keyword:研发投入;positive:研发投入合计;table;heading;note
+688981_中芯国际_2021年报,中芯国际,开发支出,yes,4. 在研项目情况,,,no_positive_keyword;page_unavailable,keyword:在研项目;table;heading;note
+688981_中芯国际_2021年报,中芯国际,管理层讨论,yes,第四节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;table;heading
+688981_中芯国际_2021年报,中芯国际,无形资产附注,yes,(3).本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:本期增加,本期减少,减值准备,累计摊销,期末余额;table;heading;note"
+688981_中芯国际_2022年报,中芯国际,会计政策,yes,√适用 □不适用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table"
+688981_中芯国际_2022年报,中芯国际,研发费用,yes,3. 研发投入情况表,,,page_unavailable,keyword:研发投入;positive:研发投入合计;table;heading
+688981_中芯国际_2022年报,中芯国际,开发支出,yes,4. 在研项目情况,,,no_positive_keyword;page_unavailable,keyword:在研项目;table;heading
+688981_中芯国际_2022年报,中芯国际,管理层讨论,yes,第四节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+688981_中芯国际_2022年报,中芯国际,无形资产附注,yes,(3) 本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"
+688981_中芯国际_2023年报,中芯国际,会计政策,yes,√适用 □不适用,,,page_unavailable,"keyword:资本化;positive:研究阶段,开发阶段,内部研究开发,资本化条件,开发支出;table"
+688981_中芯国际_2023年报,中芯国际,研发费用,yes,(二)主要财务指标,,,no_positive_keyword;page_unavailable,keyword:研发投入;table;note
+688981_中芯国际_2023年报,中芯国际,开发支出,yes,4. 在研项目情况,,,no_positive_keyword;page_unavailable,keyword:在研项目;table;heading
+688981_中芯国际_2023年报,中芯国际,管理层讨论,yes,第四节 管理层讨论与分析,,,no_positive_keyword;page_unavailable,keyword:管理层讨论与分析;heading
+688981_中芯国际_2023年报,中芯国际,无形资产附注,yes,(3) 本期计提在建工程减值准备情况,,,page_unavailable,"keyword:减值准备;positive:内部研发,本期增加,本期减少,减值准备,累计摊销;table;heading"

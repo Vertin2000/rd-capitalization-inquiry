@@ -40,7 +40,7 @@ env/
 
 # Data (large files & generated intermediates)
 data/pdf/
-data/parsed/
+data/parsed/**
 data/sections/
 data/extracted/
 data/validated/
@@ -49,6 +49,9 @@ data/anomaly/
 data/inquiry/
 data/metadata/*.csv
 data/crawl_cache.json
+# Week16 §11.5/§11.6 required deliverables: re-include specific sample/result files
+!data/metadata/metadata.csv
+!data/parsed/parsed_docs_sample.jsonl
 # Official API crawler runtime files (token is sensitive, cache is rebuildable)
 data/crawl_cache_official.json
 data/cninfo_official_token.json
@@ -60,6 +63,15 @@ outputs/**
 !outputs/
 !outputs/**/
 !outputs/**/.gitkeep
+# Week16 §11.5/§11.6 required deliverables: re-include final report/results/eval/section check/run log
+!outputs/final_report.md
+!outputs/dataset_check_report.md
+!outputs/results/final_results.csv
+!outputs/reports/eval_report_final.md
+!outputs/reports/section_check_report.csv
+!outputs/reports/section_check_report.md
+!outputs/logs/run_log.jsonl
+!outputs/logs/sample_run_log.jsonl
 
 # Keep directory structure
 !data/.gitkeep
