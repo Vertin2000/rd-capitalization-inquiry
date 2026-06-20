@@ -388,7 +388,8 @@ project2/
 | `outputs/dataset_check_report.md` | 数据质量审计报告 | audit |
 | `outputs/reports/inquiry_orphan_pdf_report.md` | 未被当前候选表引用的旧问询 PDF 清单 | inquiry-download |
 | `outputs/loop_evaluation.json` | 混淆矩阵与条件式评估指标 | analyze |
-| `outputs/final_report.md` | 最终分析报告（可直接提交或转换为 PDF） | report |
+| `final_report.md`（根目录） | 最终答辩报告（手写版，老师看的交付物） | Phase 3 写作工作台 |
+| `outputs/final_report_auto.md` | 自动生成的技术底稿（可复现） | report |
 
 ---
 

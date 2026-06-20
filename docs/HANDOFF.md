@@ -21,7 +21,7 @@
  | 文档 | ✅ 已更新 | `docs/architecture.md`, `docs/crawl_spec.md`, `docs/topic_proposal.md`, `docs/mineru_setup.md` | 架构、规格、选题方案、MinerU GPU 配置均已记录 |
  | 测试 | ✅ 合并后通过 | `tests/` | `uv run pytest tests -q`：exit 0 |
 
-**白话总结**：Week 12 要求的 crawl → download → audit 已在 official API 路线完整跑通：150 条 metadata、150 份 PDF、collision=0，audit 通过。Week 13 的 parse 阶段已从本地 MinerU 长跑切到 MinerU 精准 API batch：最终 150 份年报 Markdown 全部生成，275 个 page segment 全部 success。2026-06-15 按全量 extract 结果重跑后段，2026-06-20 又做 P1 方法论修复（fuzziness 词表去毒、change_zscore 改正向、industry 显式化）并重跑：`uv run python src/main.py --from-stage validate --to-stage report` 成功，输出 validate 150/150、score 83/150 可评分（67 no-score）、detect 17 条异常、inquiry-label 1 条相关问询弱标签、analyze 矩阵 TP=0 / FP=17 / TN=132 / FN=1、`outputs/final_report.md` 课堂展示版（单源真值见 §12.10）。
+**白话总结**：Week 12 要求的 crawl → download → audit 已在 official API 路线完整跑通：150 条 metadata、150 份 PDF、collision=0，audit 通过。Week 13 的 parse 阶段已从本地 MinerU 长跑切到 MinerU 精准 API batch：最终 150 份年报 Markdown 全部生成，275 个 page segment 全部 success。2026-06-15 按全量 extract 结果重跑后段，2026-06-20 又做 P1 方法论修复（fuzziness 词表去毒、change_zscore 改正向、industry 显式化）并重跑：`uv run python src/main.py --from-stage validate --to-stage report` 成功，输出 validate 150/150、score 83/150 可评分（67 no-score）、detect 17 条异常、inquiry-label 1 条相关问询弱标签、analyze 矩阵 TP=0 / FP=17 / TN=132 / FN=1、`outputs/final_report_auto.md` 自动版（单源真值见 §12.10）；根级 `final_report.md` 为手写答辩版。
 
 ---
 

@@ -68,4 +68,4 @@ stages:
   - name: "report"
     description: "报告生成"
     input: "outputs/loop_evaluation.json"
-    output: "outputs/final_report.md"
+    output: "outputs/final_report_auto.md"

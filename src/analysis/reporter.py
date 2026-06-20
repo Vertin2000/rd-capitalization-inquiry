@@ -117,7 +117,7 @@ class FinalReporter:
         scored_path: str | Path = "data/scored/records.jsonl",
         inquiry_path: str | Path | None = None,
         config_path: str | Path = "configs/model_config.yaml",
-        report_path: str | Path = "outputs/final_report.md",
+        report_path: str | Path = "outputs/final_report_auto.md",
     ) -> None:
         self.evaluation_path = self._resolve(evaluation_path)
         self.scored_path = self._resolve(scored_path)
@@ -606,7 +606,7 @@ class FinalReporter:
             "| detect | scored | `data/anomaly/anomaly_list.csv` | 已输出异常列表 |",
             "| inquiry-label | inquiry candidates | `data/inquiry/inquiry_records.jsonl` | MVP：标题、PDF 首页标题 + PDF 前 5 页关键词标签 |",
             "| analyze | score + inquiry | `outputs/loop_evaluation.json` | 已生成混淆矩阵 |",
-            "| report | evaluation | `outputs/final_report.md` | 已生成本报告 |",
+            "| report | evaluation | `outputs/final_report_auto.md` | 已生成自动版报告 |",
             "",
             "### 技术架构",
             "",

@@ -64,7 +64,7 @@ outputs/**
 !outputs/**/
 !outputs/**/.gitkeep
 # Week16 §11.5/§11.6 required deliverables: re-include final report/results/eval/section check/run log
-!outputs/final_report.md
+!outputs/final_report_auto.md
 !outputs/dataset_check_report.md
 !outputs/results/final_results.csv
 !outputs/reports/eval_report_final.md

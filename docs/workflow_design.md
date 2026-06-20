@@ -21,7 +21,7 @@
 | inquiry-download | `data/inquiry/inquiry_candidates.csv` | `data/inquiry/pdf/*.pdf` + `outputs/reports/inquiry_orphan_pdf_report.md` | 按候选 metadata 下载问询函、回复函等 PDF，回写下载状态与首页标题校验结果 | 标记失败文件，支持重跑补下载；旧 PDF 只进入 orphan 报告，不自动删除 | `inquiry_download_log.jsonl` |
 | inquiry-label | `data/inquiry/inquiry_candidates.csv` | `data/inquiry/inquiry_records.jsonl` | 完成问询内容判断并生成全样本 company-year 标签 | 无相关问询也保留记录，用于 FN/TN | `inquiry.log` |
 | analyze | `data/scored/records.jsonl` + `data/anomaly/anomaly_list.csv` + `data/inquiry/inquiry_records.jsonl` | `outputs/loop_evaluation.json` | 成功生成混淆矩阵和条件式指标 | 检查 TP/FP/TN/FN 分布；样本不足时转为 Top-K 和案例分析 | `analyze.log` |
-| report | `outputs/loop_evaluation.json` | `outputs/final_report.md` | 生成完整 Markdown 报告 | — | `report.log` |
+| report | `outputs/loop_evaluation.json` | `outputs/final_report_auto.md` | 生成完整 Markdown 报告（自动版技术底稿） | — | `report.log` |
 
 ## 流程图
 

@@ -148,7 +148,8 @@ uv run python src/main.py --from-stage validate --to-stage report
 | 异常公司列表 | CSV | `data/anomaly/anomaly_list.csv` |
 | 问询候选 metadata | CSV | `data/inquiry/inquiry_candidates.csv` |
 | 问询标签与配对结果 | JSONL | `data/inquiry/inquiry_records.jsonl` |
-| 闭环评估报告 | Markdown | `outputs/final_report.md` |
+| 闭环评估报告（自动版） | Markdown | `outputs/final_report_auto.md` |
+| 最终答辩报告（手写版） | Markdown | `final_report.md`（根目录） |
 
 ---
 

@@ -76,4 +76,5 @@
 - 想看研究方法、公式与参数说明 → [`methodology.md`](methodology.md)
 - 想看架构设计 → [`architecture.md`](architecture.md)
 - 想查 CNINFO 外部来源边界 → [`cninfo_external_references.md`](cninfo_external_references.md)
-- 想看课堂展示最终稿 → [`../outputs/final_report.md`](../outputs/final_report.md)
+- 想看最终答辩报告（手写版）→ [`../final_report.md`](../final_report.md)（根目录）
+- 想看自动生成技术底稿 → [`../outputs/final_report_auto.md`](../outputs/final_report_auto.md)

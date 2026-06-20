@@ -67,7 +67,7 @@ flowchart LR
 | inquiry / inquiry-download | 年报 metadata | 问询候选与 PDF | CSV + PDF | `data/inquiry/` |
 | inquiry-label | 问询候选与 PDF | company-year 弱标签 | JSONL | `data/inquiry/inquiry_records.jsonl` |
 | analyze | score + inquiry label | 混淆矩阵与指标 | JSON | `outputs/loop_evaluation.json` |
-| report | evaluation JSON | 展示报告 | Markdown | `outputs/final_report.md` |
+| report | evaluation JSON | 展示报告（自动版） | Markdown | `outputs/final_report_auto.md` |
 
 当前后段已跑通，但问询标签仍是标题、PDF 首页标题和 PDF 前 5 页关键词弱标签；单独命中“研发”也会判相关。报告结论应强调“闭环可运行、风险名单可解释、监管预测待增强”。
 
@@ -106,7 +106,7 @@ flowchart LR
 
 ### 2.3 Week 14–16 — 工作流框架、评估与展示
 
-> 状态：MVP 已跑通。`src/main.py` 注册并实现 `score`、`detect`、`inquiry-label`、`analyze`、`report`，最终输出 `outputs/loop_evaluation.json` 和 `outputs/final_report.md`。下一步不是搭框架，而是人工复核字段缺失样本与问询全文标签。
+> 状态：MVP 已跑通。`src/main.py` 注册并实现 `score`、`detect`、`inquiry-label`、`analyze`、`report`，最终输出 `outputs/loop_evaluation.json` 和 `outputs/final_report_auto.md`。下一步不是搭框架，而是人工复核字段缺失样本与问询全文标签。
 
 ---
 
@@ -208,7 +208,7 @@ MinerU 解析后的 Markdown 文件预期结构：
 | score | 字段缺失时输出 `null` 或 partial score | `data/scored/records.jsonl` | `data_quality_notes` 记录缺失原因 |
 | detect | 分数为空的记录不标异常 | `data/anomaly/anomaly_list.csv` | 只对可评分记录排序 |
 | inquiry-label | 无候选或无关键词命中也保留 company-year | `data/inquiry/inquiry_records.jsonl` | 支持 FN/TN 计算 |
-| analyze/report | 指标样本不足时保守解释 | `outputs/loop_evaluation.json` / `outputs/final_report.md` | 保留 caveat |
+| analyze/report | 指标样本不足时保守解释 | `outputs/loop_evaluation.json` / `outputs/final_report_auto.md` | 保留 caveat |
 
 ### 5.2 `--stage` 独立运行的设计意图
 

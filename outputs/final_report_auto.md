@@ -1,6 +1,6 @@
 # 研发资本化风险排序与问询函可行性测试报告
 
-> 课堂展示版 · 生成时间：2026-06-20T18:13:11
+> 课堂展示版 · 生成时间：2026-06-21T03:18:16
 
 ## 一句话结论
 
@@ -385,7 +385,7 @@ flowchart TD
 | detect | scored | `data/anomaly/anomaly_list.csv` | 已输出异常列表 |
 | inquiry-label | inquiry candidates | `data/inquiry/inquiry_records.jsonl` | MVP：标题、PDF 首页标题 + PDF 前 5 页关键词标签 |
 | analyze | score + inquiry | `outputs/loop_evaluation.json` | 已生成混淆矩阵 |
-| report | evaluation | `outputs/final_report.md` | 已生成本报告 |
+| report | evaluation | `outputs/final_report_auto.md` | 已生成自动版报告 |
 
 ### 技术架构
 
@@ -524,7 +524,7 @@ flowchart LR
 ## 局限性与下一步
 
 - 当前问询标签是 MVP：主要基于候选标题、PDF 首页标题和前 5 页文本关键词，单独命中“研发”也会判相关，仍需人工抽查。
-- 当前行业归属来自 `configs/crawl.yaml` 顺序启发式，后续应改成显式 industry 配置。
+- 当前行业归属优先读 `configs/crawl.yaml` 的显式 `industry` 字段，缺失时才回退到公司排列顺序启发式；后续应移除顺序 fallback。
 - 当前报告按全量样本快照生成；仍需复核字段缺失样本和问询全文语义标签。
 - Precision / Recall / F1 只有在研发资本化相关问询样本足够时才有解释力。
 - 后续应补 30 条人工核验样本，记录字段值、证据文本和错误类型。
