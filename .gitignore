@@ -75,6 +75,8 @@ outputs/**
 # Phase 3 deliverables: PPT outline + writing-workbench skeleton
 !outputs/ppt_outline.md
 !outputs/writing_workbench/**
+# Phase 4 deliverable: presentation slides source (pptx); pdf export lives at repo root
+!outputs/final_slides.pptx
 
 # Keep directory structure
 !data/.gitkeep
