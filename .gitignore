@@ -72,6 +72,9 @@ outputs/**
 !outputs/reports/section_check_report.md
 !outputs/logs/run_log.jsonl
 !outputs/logs/sample_run_log.jsonl
+# Phase 3 deliverables: PPT outline + writing-workbench skeleton
+!outputs/ppt_outline.md
+!outputs/writing_workbench/**
 
 # Keep directory structure
 !data/.gitkeep
